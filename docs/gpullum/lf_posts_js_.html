@@ -1,19 +1,18 @@
 <!DOCTYPE html>
 <html lang="en" class="h-100">
 <head>
-<meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="description" content="Project4Dimensions—warping space-time!">
 <meta name="author" content="Project4Dimensions">
 <meta name="keywords" content="Project4Dimensions, warping, space-time">
 <meta name="application-name" content="Project4Dimensions">
-<meta name="msapplication-config" content="assets/favicons/browserconfig.xml">
-<link rel="apple-touch-icon" sizes="180x180" href="assets/favicons/apple-touch-icon.png">
-<link rel="icon" type="image/png" sizes="32x32" href="assets/favicons/favicon-32x32.png">
-<link rel="icon" type="image/png" sizes="16x16" href="assets/favicons/favicon-16x16.png">
-<link rel="manifest" href="assets/favicons/manifest.json">
-<link rel="mask-icon" color="#5bbad5" href="assets/favicons/safari-pinned-tab.svg">
-<link rel="shortcut icon" href="assets/favicons/favicon.ico">
+<meta name="msapplication-config" content="../assets/favicons/browserconfig.xml">
+<link rel="apple-touch-icon" sizes="180x180" href="../assets/favicons/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="../assets/favicons/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="../assets/favicons/favicon-16x16.png">
+<link rel="manifest" href="../assets/favicons/manifest.json">
+<link rel="mask-icon" color="#5bbad5" href="../assets/favicons/safari-pinned-tab.svg">
+<link rel="shortcut icon" href="../assets/favicons/favicon.ico">
 <link
 href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css"
 rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor"
@@ -27,25 +26,31 @@ crossorigin="anonymous">
 <main class="flex-shrink-0">
   <div class="container">
 
-    <p class="text-start text-secondary mt-4 mb-4">
-      <span class="lead">
-        a whimsical space to learn and explore logic and grammar
-      </span>
-    </p>
-
-    <p class="text-secondary">
+    <div class="text-center text-secondary mt-4 mb-3">
+      <span class="lead">In The Chronicle of Higher Education</span><br>
       <span class="big">
-      discover eclectic pursuits below:
+        Geoffrey K. Pullum’s posts on the Lingua Franca blog (+ archive pages)
       </span>
-    </p>
+    </div>
 
     <p class="small text-secondary">
-      <a class="text-secondary" href="https://project4dimensions.github.com/logic/gpullum/lf_posts_js_.html/">
-        https://project4dimensions.github.com/logic/gpullum/lf_posts_js_.html/
+      This is a reverse chronological listing of
+      <a class="text-secondary" href="http://www.lel.ed.ac.uk/~gpullum/lf-posts.html">
+        Geoffrey K. Pullum’s posts
       </a>
+      on <span class="fw-bold">Lingua Franca</span>, a now defunct group
+      blog about language and writing in academe on the website of
+      <span class="fst-italic">The Chronicle of Higher Education</span>.
+      His posts appeared there once a week from August 2011 to December
+      2018. <span class="fst-italic">The Chronicle</span> maintains a
+      <a class="text-secondary" href="https://www.chronicle.com/blogs/linguafranca/">
+        full archive
+      </a> of them.
     </p>
-  </div>
 
+    <div id="posts">  </div>
+
+  </div>
   <!-- class="container" -->
 </main>
 
@@ -68,6 +73,14 @@ crossorigin="anonymous">
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js"
 integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2"
 crossorigin="anonymous"></script>
+
+<script src="lf_posts_js_capta.js"></script>
+
+<script src="lf_posts_js_.js"></script>
+
+<script>
+window.onload = function() {lfList();};
+</script>
 
 </body>
 
