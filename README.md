@@ -8,4 +8,4 @@ Have a look at these eclectic pursuits:
 [`Geoffrey K. Pullum web`][1]  
 [`Geoffrey K. Pullum code`](docs/gpullum)
 
-[1]: https://project4dimensions.github.io/logic/docs/gpullum/lf_posts_js_.html
+[1]: https://project4dimensions.github.io/logic/gpullum/lf_posts_js_.html
