@@ -1,18 +1,9 @@
-/* JSLint edition 2022-07-02 beta (jslint.com)
- * Options
- *   Env…
- *     browser
- *     devel
- * Report: Warnings (0)
- *   There are no warnings.
- */
+/* see lfp_comments.html */
 
-const author = "Geoffrey K. Pullum";
-
-function lfList() {
+function lfpList() {
     "use strict";
-    lfPosts.map(function (value) {
-        let posts = document.getElementById("posts");
+    lfp3.map(function (obj) {
+        let posts = document.getElementById("lfPosts");
         let dCard = document.createElement("div");
         let dCardH = document.createElement("div");
         let dCol2 = document.createElement("div");
@@ -28,29 +19,28 @@ function lfList() {
         dCardH.setAttribute("class", "card-header d-flex align-items-top");
         dCol2.setAttribute("class", "col-2");
         img.setAttribute("class", "img-fluid img-thumbnail");
-        img.setAttribute("alt", value.C_alt);
-        img.setAttribute("src", value.B_image);
+        img.setAttribute("alt", obj.g_alt);
+        img.setAttribute("src", obj.f_image);
         dCol10.setAttribute("class", "col-10 ps-3");
         pTitle.setAttribute("class", "card-text mb-1 small text-secondary");
         aTitle.setAttribute("class", "text-secondary");
-        aTitle.setAttribute("href", value.E_link);
+        aTitle.setAttribute("href", obj.b_link);
         pDesc.setAttribute("class", "card-text mb-1 lh-1 small text-secondary");
         pPage.setAttribute("class", "card-text small text-secondary");
         aPage.setAttribute("class", " text-secondary");
-        aPage.setAttribute("href", value.I_page);
+        aPage.setAttribute("href", obj.i_page);
 
-        aTitle.appendChild(document.createTextNode(value.D_title));
+        aTitle.appendChild(document.createTextNode(obj.c_title));
 
         pTitle.appendChild(aTitle);
         pTitle.appendChild(document.createElement("br"));
         pTitle.appendChild(document.createTextNode(
-            author + " · " + value.G_dateUK +
-            " · № " + value.A_number
+            "Geoffrey K. Pullum · " + obj.d_dateUK + " · № " + obj.a_num
         ));
 
-        pDesc.appendChild(document.createTextNode(value.H_desc));
+        pDesc.appendChild(document.createTextNode(obj.h_desc));
 
-        aPage.appendChild(document.createTextNode(value.I_page));
+        aPage.appendChild(document.createTextNode(obj.i_page));
 
         pPage.appendChild(aPage);
 
@@ -67,3 +57,13 @@ function lfList() {
         posts.appendChild(dCard);
     });
 }
+
+/* JSLint edition 2022-07-20 (jslint.com)
+ * Options
+ *   Env…
+ *     browser
+ *     devel
+ *   imported globals
+ *     lfp3
+ * Report: Warnings (0)
+ *   There are no warnings. */
