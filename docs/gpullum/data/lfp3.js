@@ -50,7 +50,7 @@
         "d_dateUK": "7 Nov 2018",
         "e_dateISO": "2018-11-07",
         "f_image": "",
-        "g_alt": "no image",
+        "g_alt": "",
         "h_desc": "The medieval crime of saying things that outrage the pious exists in the 21st century, says Geoff Pullum, making a “safe space” for religion written into the law in some lands.",
         "i_page": "https://www.chronicle.com/blogs/linguafranca?p=3"
     },
