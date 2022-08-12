@@ -1,13 +1,4 @@
-/* JSLint edition 2022-07-20 (jslint.com)
- * Options
- *   Env…
- *     browser
- *     devel
- * Allow…
- *     long
- * Report: Warnings (0)
- *   There are no warnings.
- */
+/* JSLint v2022.7.20 · Options: browser, long. Report: warnings 0. */
 
 const lfp2 = [
     {
