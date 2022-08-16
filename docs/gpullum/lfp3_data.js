@@ -1,4 +1,4 @@
-﻿[
+﻿const lfp3 = [
     {
         "a_num": "360",
         "b_link": "https://www.chronicle.com/blogs/linguafranca/2018/12/18/how-writing-to-deadlines-can-hold-your-life-together/",
@@ -1799,6 +1799,7 @@
         "d_dateUK": "17 Aug 2015",
         "e_dateISO": "2015-08-17",
         "f_image": "https://www.nocloo.com/wp-content/uploads/2020/06/EB_White1.jpg",
+        /* http://chronicle-brightspot.s3.amazonaws.com/d8/5c/c1aac1a65fae7a8833a8f50e5473/ebwhite1.jpg */
         "g_alt": "e.b. white",
         "h_desc": "Geoff Pullum is shocked to discover a law-school course syllabus stating that students’ grades would be partially determined by adherence to a set of false claims about proper English usage.",
         "i_page": "https://www.chronicle.com/blogs/linguafranca?p=83"
@@ -2217,6 +2218,7 @@
         "d_dateUK": "6 Nov 2014",
         "e_dateISO": "2014-11-06",
         "f_image": "https://i5.walmartimages.com/asr/de528160-9579-4214-bbf5-f7fb9e26c763_1.f2cadce70d3a3d27631766ace863884f.jpeg",
+        /* http://chronicle-brightspot.s3.amazonaws.com/5d/13/32165f07cbd30a4b0d49d996b97d/anthony-trollope.jpg */
         "g_alt": "anthony trollope",
         "h_desc": "Geoff Pullum has been grading papers, and he agrees that overuse of the passive is horrible to behold. But passives are not the real problem.",
         "i_page": "https://www.chronicle.com/blogs/linguafranca?p=102"
@@ -2646,6 +2648,7 @@
         "d_dateUK": "27 Jan 2014",
         "e_dateISO": "2014-01-27",
         "f_image": "https://www.marinatimes.com/wp-content/uploads/2012/10/FINANCE-Silverman-Oct2012-cricket-game-wallpapers-com.jpg",
+        /* http://chronicle-brightspot.s3.amazonaws.com/b3/8c/3dba02d4385634f25623020272af/2485414947-6faaf58a2f-d.jpg */
         "g_alt": "not cricket",
         "h_desc": "Geoff Pullum takes Lynne Truss to task over a shocking charge that linguists are “broad-minded” about grammar mistakes.",
         "i_page": "https://www.chronicle.com/blogs/linguafranca?p=122"
@@ -3959,4 +3962,4 @@
         "h_desc": "Thieving is wrong; but what if a colleague handles a lecture interruption with a line that’s just too good not to steal? asks Geoffrey Pullum.",
         "i_page": "https://www.chronicle.com/blogs/linguafranca?p=181"
     }
-]
+];

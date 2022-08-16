@@ -1,9 +1,8 @@
-﻿[
+/* JSLint v2022.7.20 · Options: browser, long. Report: warnings 0. */
+
+const lfp2 = [
     {
         "a_num": "360",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2018/12/18/how-writing-to-deadlines-can-hold-your-life-together/",
-        "c_title": "How Writing to Deadlines Can Hold Your Life Together",
-        "d_dateUK": "18 Dec 2018",
         "e_dateISO": "2018-12-18",
         "f_image": "https://chronicle-brightspot.s3.amazonaws.com/38/14/67b33560f566a2ef0db936cd317c/1500x500.jpg",
         "g_alt": "typewriter",
@@ -12,9 +11,6 @@
     },
     {
         "a_num": "359",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2018/12/13/how-googles-autotype-contradicts-orwells-advice/",
-        "c_title": "How Google’s Autotype Contradicts Orwell’s Advice",
-        "d_dateUK": "13 Dec 2018",
         "e_dateISO": "2018-12-13",
         "f_image": "https://chronicle-brightspot.s3.amazonaws.com/1f/0e/f1dcb82012b779dcdcb0b6b27b5c/orwell-360x450-0.jpg",
         "g_alt": "orwell",
@@ -23,9 +19,6 @@
     },
     {
         "a_num": "358",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2018/12/03/the-web-page-that-cannot-exist/",
-        "c_title": "The Web Page That Cannot Exist",
-        "d_dateUK": "3 Dec 2018",
         "e_dateISO": "2018-12-03",
         "f_image": "https://chronicle-brightspot.s3.amazonaws.com/42/6b/67307809e42f45c274f66e53921f/giovanni-battista-piranesi-the-drawbridge-google-art-project.jpg",
         "g_alt": "stairs",
@@ -34,9 +27,6 @@
     },
     {
         "a_num": "357",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2018/11/26/a-pocket-brexicon-for-american-academics/",
-        "c_title": "A Pocket Brexicon for American Academics",
-        "d_dateUK": "26 Nov 2018",
         "e_dateISO": "2018-11-26",
         "f_image": "https://chronicle-brightspot.s3.amazonaws.com/27/31/40a904545b6462b3dca2fe574af9/brexit.jpg",
         "g_alt": "brexit",
@@ -45,9 +35,6 @@
     },
     {
         "a_num": "356",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2018/11/07/blasphemy-and-the-strange-world-of-linguistic-crimes/",
-        "c_title": "Blasphemy and the Strange World of Linguistic Crimes",
-        "d_dateUK": "7 Nov 2018",
         "e_dateISO": "2018-11-07",
         "f_image": "",
         "g_alt": "",
@@ -56,9 +43,6 @@
     },
     {
         "a_num": "355",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2018/10/28/a-moment-of-sympathy-for-the-old-fogeys-and-snoots/",
-        "c_title": "A Moment of Sympathy for the Old Fogeys and Snoots",
-        "d_dateUK": "28 Oct 2018",
         "e_dateISO": "2018-10-28",
         "f_image": "https://chronicle-brightspot.s3.amazonaws.com/13/37/6b5b083841e0d2e52bb5ad18c8f4/screen-shot-2018-10-27-at-11-07-13-am.png",
         "g_alt": "featherbeds",
@@ -67,9 +51,6 @@
     },
     {
         "a_num": "354",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2018/10/24/why-linguistics-matters/",
-        "c_title": "Why Linguistics Matters",
-        "d_dateUK": "24 Oct 2018",
         "e_dateISO": "2018-10-24",
         "f_image": "https://chronicle-brightspot.s3.amazonaws.com/29/89/dd4be933449e54a5043a38aab8b1/spaghetti-allo-scoglio.jpg",
         "g_alt": "spaghetti",
@@ -78,9 +59,6 @@
     },
     {
         "a_num": "353",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2018/10/15/sir-harold-evans-sneers-at-a-book-he-has-not-read/",
-        "c_title": "Sir Harold Evans Sneers at a Book He Has Not Read",
-        "d_dateUK": "15 Oct 2018",
         "e_dateISO": "2018-10-15",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/27/9a/005d0064239936c187046d0c4a23/haroldevans.png",
         "g_alt": "harold evans",
@@ -89,9 +67,6 @@
     },
     {
         "a_num": "352",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2018/10/11/pure-gold-buried-long-ago-in-the-book-review-columns/",
-        "c_title": "Pure Gold, Buried Long Ago in the Book Review Columns",
-        "d_dateUK": "11 Oct 2018",
         "e_dateISO": "2018-10-11",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/61/87/39fd780c59a24ff3865ff69afcc6/hockett.png",
         "g_alt": "charles f. hockett",
@@ -100,9 +75,6 @@
     },
     {
         "a_num": "351",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2018/10/01/whats-in-a-name-a-government-loses-a-national-referendum-over-an-adjective/",
-        "c_title": "What’s in a Name? A Government Loses a National Referendum Over an Adjective",
-        "d_dateUK": "1 Oct 2018",
         "e_dateISO": "2018-10-01",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/a7/6e/b7c75ced31fed3d9528a303f0ee5/macedonian-region.png",
         "g_alt": "macedonia map",
@@ -111,9 +83,6 @@
     },
     {
         "a_num": "350",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2018/09/25/whats-the-fastest-growing-language-in-the-u-s-youll-never-guess/",
-        "c_title": "What’s the Fastest-Growing Language in the U.S.? You’ll Never Guess",
-        "d_dateUK": "25 Sep 2018",
         "e_dateISO": "2018-09-25",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/00/85/61fd83749dd46f72a469b5772baa/dravidian-lgs.png",
         "g_alt": "india map",
@@ -122,9 +91,6 @@
     },
     {
         "a_num": "349",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2018/09/20/nonsense-about-universal-translation-strictly-for-the-gullible/",
-        "c_title": "Nonsense About Universal Translation, Strictly for the Gullible",
-        "d_dateUK": "20 Sep 2018",
         "e_dateISO": "2018-09-20",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/94/69/67973e054f3615427e2361436c7d/dolphin.jpg",
         "g_alt": "dolphin",
@@ -133,9 +99,6 @@
     },
     {
         "a_num": "348",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2018/09/10/the-cold-dead-hand-of-john-dryden/",
-        "c_title": "How the Cold, Dead Hand of John Dryden Still Perpetuates Grammar Myths",
-        "d_dateUK": "10 Sep 2018",
         "e_dateISO": "2018-09-10",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/d0/f9/dcb3782c157fe11cf359a1058ca7/john-dryden.png",
         "g_alt": "john dryden",
@@ -144,9 +107,6 @@
     },
     {
         "a_num": "347",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2018/09/05/merriam-webster-heal-thyself/",
-        "c_title": "Merriam-Webster, Heal Thyself!",
-        "d_dateUK": "5 Sep 2018",
         "e_dateISO": "2018-09-05",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/c1/7c/cfb8fd4750171771c04b6866eac9/merriam.jpg",
         "g_alt": "merriam-webster",
@@ -155,9 +115,6 @@
     },
     {
         "a_num": "346",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2018/08/26/the-perennial-difficulty-of-defining-what-descriptive-means-in-grammar/",
-        "c_title": "The Perennial Difficulty of Defining What ‘Descriptive’ Means in Grammar",
-        "d_dateUK": "26 Aug 2018",
         "e_dateISO": "2018-08-26",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/40/4b/4a3b262a56ad7eebaf34ca337aff/grandmaster-contemporary-summerhouse-m01.jpg",
         "g_alt": "summerhouse",
@@ -166,9 +123,6 @@
     },
     {
         "a_num": "345",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2018/08/21/chinese-among-high-school-seniors-and-in-the-movies/",
-        "c_title": "Chinese Among High-School Seniors (and in the Movies)",
-        "d_dateUK": "21 Aug 2018",
         "e_dateISO": "2018-08-21",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/40/95/d6ac922e2fc9fe56c3df1e31c040/statham-and-bingbing.png",
         "g_alt": "jason statham",
@@ -177,9 +131,6 @@
     },
     {
         "a_num": "344",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2018/08/16/learning-useless-english-grammar-in-japan/",
-        "c_title": "Learning Useless English Grammar in Japan",
-        "d_dateUK": "16 Aug 2018",
         "e_dateISO": "2018-08-16",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/ca/da/6750fe166c968748b74e7751204d/teachingenglishinjapan.jpg",
         "g_alt": "japan blackboard",
@@ -188,9 +139,6 @@
     },
     {
         "a_num": "343",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2018/08/06/avoiding-false-titles-how-some-news-publications-try-not-to-sound-like-other-news-publications/",
-        "c_title": "Avoiding ‘False Titles’: How Some News Publications Try Not to Sound Like News Publications",
-        "d_dateUK": "6 Aug 2018",
         "e_dateISO": "2018-08-06",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/41/6d/aa0f5ef9752edba8f130b64b73f1/da-vinci-code-e6e178b8-5c1b-11e7-ad31-8e588690cd15.jpg",
         "g_alt": "tom hanks",
@@ -199,9 +147,6 @@
     },
     {
         "a_num": "342",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2018/08/01/the-grammar-of-the-adjective-is-not-whats-wrong-with-illegal-alien/",
-        "c_title": "The Grammar of the Adjective Is Not What’s Wrong With ‘Illegal Alien’",
-        "d_dateUK": "1 Aug 2018",
         "e_dateISO": "2018-08-01",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/6f/82/82fd3e3bd878e7cad11525ee51d4/melanija-knavs.jpg",
         "g_alt": "illegal alien",
@@ -210,9 +155,6 @@
     },
     {
         "a_num": "341",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2018/07/25/whats-an-anti-semite-it-depends-on-which-politician-you-ask/",
-        "c_title": "What’s an Anti-Semite? It Depends on Which Politician You Ask",
-        "d_dateUK": "25 Jul 2018",
         "e_dateISO": "2018-07-25",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/9f/00/5850b40e3a6cce12e830a519c7b2/gettyimages-98894080.jpg",
         "g_alt": "Margaret Hodge",
@@ -221,9 +163,6 @@
     },
     {
         "a_num": "340",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2018/07/17/writing-on-philosophy-its-not-rocket-science-its-more-complicated-than-that/",
-        "c_title": "Writing on Philosophy: It’s Not Rocket Science. It’s More Complicated Than That.",
-        "d_dateUK": "17 Jul 2018",
         "e_dateISO": "2018-07-17",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/68/b8/835faf17d45926c0f8cf7129b875/philosphy-of-language.jpg",
         "g_alt": "philosphy",
@@ -232,9 +171,6 @@
     },
     {
         "a_num": "339",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2018/07/12/friendly-communication-across-supposed-language-barriers/",
-        "c_title": "Friendly Communication Across Supposed Language Barriers",
-        "d_dateUK": "12 Jul 2018",
         "e_dateISO": "2018-07-12",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/4d/65/93f938e7aae0d8c5a87f3eb59f29/centralmosque.jpg",
         "g_alt": "ed mosque",
@@ -243,9 +179,6 @@
     },
     {
         "a_num": "338",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2018/07/02/the-triumph-and-tragedy-of-oscar-wilde/",
-        "c_title": "The Triumph and Tragedy of Oscar Wilde",
-        "d_dateUK": "2 Jul 2018",
         "e_dateISO": "2018-07-02",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/33/10/2cab5b264228a4639568c653f635/oscar-wilde-2.jpg",
         "g_alt": "oscar wilde",
@@ -254,9 +187,6 @@
     },
     {
         "a_num": "337",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2018/06/27/koko-is-dead-but-the-myth-of-her-linguistic-skills-lives-on/",
-        "c_title": "Koko Is Dead, but the Myth of Her Linguistic Skills Lives On",
-        "d_dateUK": "27 Jun 2018",
         "e_dateISO": "2018-06-27",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/da/fb/25fa4567491bab7c848f64525a91/screen-shot-2018-06-27-at-12-23-31-pm.png",
         "g_alt": "koko",
@@ -265,9 +195,6 @@
     },
     {
         "a_num": "336",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2018/06/20/strunk-at-100-a-centennial-not-to-celebrate/",
-        "c_title": "Strunk at 100: A Centennial Not to Celebrate",
-        "d_dateUK": "20 Jun 2018",
         "e_dateISO": "2018-06-20",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/96/d4/cfb09330710fb2d6a1f1e6bad9d0/strunkatbartleby.jpg",
         "g_alt": "bartleyby.com",
@@ -276,9 +203,6 @@
     },
     {
         "a_num": "335",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2018/06/13/another-conquest-by-the-language-that-is-eating-the-world/",
-        "c_title": "Another Conquest by the Language That Is Eating the World",
-        "d_dateUK": "13 Jun 2018",
         "e_dateISO": "2018-06-13",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/36/4b/39a60e18dfe58e1e20d5b0d768d8/flags2.png",
         "g_alt": "uk & nl flags",
@@ -287,9 +211,6 @@
     },
     {
         "a_num": "334",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2018/06/07/infinitives-can-be-split-grammar-conservatives-face-the-shock/",
-        "c_title": "Infinitives Can Be Split: Grammar Conservatives Face the Shock",
-        "d_dateUK": "7 Jun 2018",
         "e_dateISO": "2018-09-07",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/97/df/d085422d94f13d0c4f96be077def/the-enterprise.jpg",
         "g_alt": "starship",
@@ -298,9 +219,6 @@
     },
     {
         "a_num": "333",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2018/05/27/amazons-alexa-not-yet-as-smart-as-a-5-year-old-child/",
-        "c_title": "Amazon’s Alexa: Not Yet as Smart as a 5-Year-Old Child",
-        "d_dateUK": "27 May 2018",
         "e_dateISO": "2018-05-27",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/5f/63/de754c38cba5c4793eef1989f910/listening.png",
         "g_alt": "xkcd alexa",
@@ -309,9 +227,6 @@
     },
     {
         "a_num": "332",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2018/05/20/the-israelpalestine-dispute-is-ill-served-by-uninformed-grammar-nitpicking/",
-        "c_title": "The Israel/Palestine Dispute Is Ill-Served by Uninformed Grammar Nitpicking",
-        "d_dateUK": "20 May 2018",
         "e_dateISO": "2018-05-20",
         "f_image": "",
         "g_alt": "",
@@ -320,9 +235,6 @@
     },
     {
         "a_num": "331",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2018/05/13/hello-google-duplex-no-artificially-intelligent-calls-please/",
-        "c_title": "Hello, Google Duplex? No Artificially Intelligent Calls, Please",
-        "d_dateUK": "13 May 2018",
         "e_dateISO": "2018-05-13",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/d0/57/2b0a68d664d61b406bf90d934170/screen-shot-2018-05-11-at-2-37-52-pm-copy.jpg",
         "g_alt": "early robot",
@@ -331,9 +243,6 @@
     },
     {
         "a_num": "330",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2018/05/08/fish-cheese-and-gossip-2000-years-of-snobbery-in-the-suffix-%E2%80%91monger/",
-        "c_title": "Fish, Cheese, and Gossip: 2,000 Years of Snobbery in the Suffix ‘-Monger’",
-        "d_dateUK": "8 May 2018",
         "e_dateISO": "2018-05-08",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/af/1a/007b5d9c786a6716f1a0ed68b280/costard-apples.png",
         "g_alt": "costard apples",
@@ -342,9 +251,6 @@
     },
     {
         "a_num": "329",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2018/05/02/watergate-weinergate-and-windrush-the-naming-of-political-scandals/",
-        "c_title": "Watergate, Weinergate, and Windrush: the Naming of Political Scandals",
-        "d_dateUK": "2 May 2018",
         "e_dateISO": "2018-05-02",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/18/a2/4f825b40a4780e0b31b73e252f6b/windrush.jpg",
         "g_alt": "windrush",
@@ -353,9 +259,6 @@
     },
     {
         "a_num": "328",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2018/04/23/emoji-are-ruining-grasp-of-english-says-dumbest-language-story-of-the-week/",
-        "c_title": "Emoji Are Ruining Grasp of English, Says Dumbest Language Story of the Week",
-        "d_dateUK": "23 Apr 2018",
         "e_dateISO": "2018-04-23",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/ca/77/da6cb4a34312aa3123db4d3e953b/emoji.jpg",
         "g_alt": "emoji",
@@ -364,9 +267,6 @@
     },
     {
         "a_num": "327",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2018/04/18/can-you-explain-what-a-shibboleth-is/",
-        "c_title": "Can You Explain What a Shibboleth Is?",
-        "d_dateUK": "18 Apr 2018",
         "e_dateISO": "2018-04-18",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/ce/3f/45ffd6722b8909377ab52bf958ef/ephraim-map.jpg",
         "g_alt": "old israel map",
@@ -375,9 +275,6 @@
     },
     {
         "a_num": "326",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2018/04/08/copy-editing-and-proofreading-a-book-it-takes-a-village/",
-        "c_title": "Copy Editing and Proofreading a Book: It Takes a Village",
-        "d_dateUK": "8 Apr 2018",
         "e_dateISO": "2018-04-08",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/a8/a4/8abab6cf6bd30a816660f169e99e/village.png",
         "g_alt": "takes a village",
@@ -386,9 +283,6 @@
     },
     {
         "a_num": "325",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2018/04/03/the-problem-with-the-ban-on-there-are-constructions/",
-        "c_title": "The Problem with the Ban on ‘There Are’ Constructions",
-        "d_dateUK": "3 Apr 2018",
         "e_dateISO": "2018-04-03",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/97/e3/9c1e2c350e3f1f2bfebab9ee0e95/expletivedeleted.png",
         "g_alt": "expletive t-shirt",
@@ -397,9 +291,6 @@
     },
     {
         "a_num": "324",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2018/03/29/ambiguous-adjectives-and-unqualified-lesbians/",
-        "c_title": "Ambiguous Adjectives and Unqualified Lesbians",
-        "d_dateUK": "29 Mar 2018",
         "e_dateISO": "2018-03-29",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/2a/f4/c32c1ca77a55362dc194ee7fb005/gettyimages-115291531.jpg",
         "g_alt": "cynthia nixon",
@@ -408,9 +299,6 @@
     },
     {
         "a_num": "323",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2018/03/19/the-adverb-that-killed-a-friendship/",
-        "c_title": "The Adverb That Killed a Friendship",
-        "d_dateUK": "19 Mar 2018",
         "e_dateISO": "2018-03-19",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/3c/60/8d3f59a1af85166347a5e8ca7f29/screen-shot-2018-03-19-at-3-46-56-pm.png",
         "g_alt": "just definition",
@@ -419,9 +307,6 @@
     },
     {
         "a_num": "322",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2018/03/14/taleb-on-pinker-neologism-and-bile/",
-        "c_title": "Taleb on Pinker: Neologism and Bile",
-        "d_dateUK": "14 Mar 2018",
         "e_dateISO": "2018-03-14",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/c9/d8/112d189881479d9cb02b08bb72df/taleb-mug.jpg",
         "g_alt": "nassim taleb",
@@ -430,9 +315,6 @@
     },
     {
         "a_num": "321",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2018/03/06/spam-driven-pollution-of-academic-communication/",
-        "c_title": "Spam-Driven Pollution of Academic Communication",
-        "d_dateUK": "6 Mar 2018",
         "e_dateISO": "2018-03-06",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/55/df/e60526acb497e8c8d9981c22eb10/spamshot.png",
         "g_alt": "spam",
@@ -441,9 +323,6 @@
     },
     {
         "a_num": "320",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2018/03/01/the-fictional-possessives-with-gerunds-rule/",
-        "c_title": "The Fictional Possessives-With-Gerunds Rule",
-        "d_dateUK": "1 Mar 2018",
         "e_dateISO": "2018-03-01",
         "f_image": "https://chronicle-brightspot.s3.amazonaws.com/2f/51/eb2d53ac905ca9a2bb4291419f1c/hwfowler2.jpg",
         "g_alt": "h. w. fowler",
@@ -452,9 +331,6 @@
     },
     {
         "a_num": "319",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2018/02/25/when-but-means-that-not/",
-        "c_title": "When ‘But’ Means ‘That … Not’",
-        "d_dateUK": "25 Feb 2018",
         "e_dateISO": "2018-02-25",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/93/ae/af486db7c68dcfdd11256b90f008/gazelle.png",
         "g_alt": "gazelle",
@@ -463,9 +339,6 @@
     },
     {
         "a_num": "318",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2018/02/12/no-overtime-pay-for-milk-truck-drivers-or-professors/",
-        "c_title": "No Overtime Pay for Milk-Truck Drivers (or Professors)",
-        "d_dateUK": "12 Feb 2018",
         "e_dateISO": "2018-02-12",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/48/d5/962dc3fee81ab1619956d4c0c27a/time-and-a-half.png",
         "g_alt": "time-and-a-half",
@@ -474,9 +347,6 @@
     },
     {
         "a_num": "317",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2018/02/07/talking-killer-whales-only-a-journalist-could-believe-it/",
-        "c_title": "Talking Killer Whales? Gullible Science Journalists More Likely",
-        "d_dateUK": "7 Feb 2018",
         "e_dateISO": "2018-02-07",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/89/fa/d12045d16031d3956e8114e26069/orca.png",
         "g_alt": "orca",
@@ -485,9 +355,6 @@
     },
     {
         "a_num": "316",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2018/01/28/negative-or-positive-answer-a-or-b/",
-        "c_title": "Negative or Positive? Answer (a) or (b)",
-        "d_dateUK": "28 Jan 2018",
         "e_dateISO": "2018-01-28",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/2d/8b/ce4d040a57bb13dba80227ff1c8b/examquestions.png",
         "g_alt": "exam questions",
@@ -496,9 +363,6 @@
     },
     {
         "a_num": "315",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2018/01/23/bonehead-guidance-for-would-be-novelists/",
-        "c_title": "Bonehead Guidance for Would-Be Novelists",
-        "d_dateUK": "23 Jan 2018",
         "e_dateISO": "2018-01-23",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/b0/88/38959a8da1684735043da13070b2/lee-child.png",
         "g_alt": "lee child",
@@ -507,9 +371,6 @@
     },
     {
         "a_num": "314",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2018/01/18/punctuate-punctuate-punctuate/",
-        "c_title": "Punctuate, Punctuate; Punctuate!",
-        "d_dateUK": "18 Jan 2018",
         "e_dateISO": "2018-01-18",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/73/6a/8784e39e9332462df26534b1d838/keep-calm-and-punctuate.png",
         "g_alt": "keep calm and punctuate",
@@ -518,9 +379,6 @@
     },
     {
         "a_num": "313",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2018/01/11/a-foreign-way-which-never-really-caught-on/",
-        "c_title": "‘A Foreign Way Which Never Really Caught On’",
-        "d_dateUK": "11 Jan 2018",
         "e_dateISO": "2018-01-11",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/38/8f/6830bcca176a7b624832f3ba6eca/muriel-spark.png",
         "g_alt": "muriel spark",
@@ -529,9 +387,6 @@
     },
     {
         "a_num": "312",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2017/12/29/the-boy-from-the-isle-of-man/",
-        "c_title": "The Boy from the Isle of Man",
-        "d_dateUK": "29 Dec 2017",
         "e_dateISO": "2017-12-29",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/21/a1/ed29e89f06518358e7ece6f5758d/quirk.png",
         "g_alt": "randolph quirk",
@@ -540,9 +395,6 @@
     },
     {
         "a_num": "311",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2017/12/19/its-the-wine-talking/",
-        "c_title": "It’s the Wine Talking",
-        "d_dateUK": "19 Dec 2017",
         "e_dateISO": "2017-12-19",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/2b/43/47fddc18cba7cc68f9263c1cae38/redwine.png",
         "g_alt": "red wine",
@@ -551,9 +403,6 @@
     },
     {
         "a_num": "310",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2017/12/14/the-fine-line-between-errors-and-dialect-differences/",
-        "c_title": "The Fine Line Between Errors and Dialect Differences",
-        "d_dateUK": "14 Dec 2017",
         "e_dateISO": "2017-12-14",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/03/d0/a067e1877bcfffd46fcb4710aa19/hadve.png",
         "g_alt": "better choices",
@@ -562,9 +411,6 @@
     },
     {
         "a_num": "309",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2017/12/04/the-man-who-hated-relativism/",
-        "c_title": "The Man Who Hated Relativism",
-        "d_dateUK": "4 Dec 2017",
         "e_dateISO": "2017-12-04",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/3d/d7/76a52a0e85c6e9be105e1294e0d1/fodor.png",
         "g_alt": "jerry fodor",
@@ -573,9 +419,6 @@
     },
     {
         "a_num": "308",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2017/11/29/the-unmentionable-topic-of-edinburgh-weather/",
-        "c_title": "The Unmentionable Topic of Edinburgh Weather",
-        "d_dateUK": "29 Nov 2017",
         "e_dateISO": "2017-11-29",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/86/a0/56974aef74d8fa102df5038a2e6b/stevenson.png",
         "g_alt": "robert louis stevenson",
@@ -584,9 +427,6 @@
     },
     {
         "a_num": "307",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2017/11/21/answering-a-question-with-a-question/",
-        "c_title": "Answering a Question with a Question",
-        "d_dateUK": "21 Nov 2017",
         "e_dateISO": "2017-11-21",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/66/b8/add8c5af9d6aee139a625cd52eda/wheeliechair.jpg",
         "g_alt": "computer chair",
@@ -595,9 +435,6 @@
     },
     {
         "a_num": "306",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2017/11/15/the-right-to-tell-people-what-they-do-not-want-to-hear/",
-        "c_title": "The Right to Tell People What They Do Not Want to Hear",
-        "d_dateUK": "15 Nov 2017",
         "e_dateISO": "2017-11-15",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/6c/f1/cbc840e79db1274be48d455df8cb/orwellstatue.png",
         "g_alt": "orwell statue",
@@ -606,9 +443,6 @@
     },
     {
         "a_num": "305",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2017/11/05/final-preposition-terror/",
-        "c_title": "Final-Preposition Terror",
-        "d_dateUK": "5 Nov 2017",
         "e_dateISO": "2017-11-05",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/ae/c5/44a593ed6d61a7735232d3522f91/john-dryden-2.jpg",
         "g_alt": "john dryden",
@@ -617,9 +451,6 @@
     },
     {
         "a_num": "304",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2017/11/01/the-ballad-of-bentley-and-craig/",
-        "c_title": "The Ballad of Bentley and Craig",
-        "d_dateUK": "1 Nov 2017",
         "e_dateISO": "2017-11-01",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/cd/15/fecfeceafbe7cda75e93455ed712/bentley.png",
         "g_alt": "derek bentley",
@@ -628,9 +459,6 @@
     },
     {
         "a_num": "303",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2017/10/26/buzzfeed-has-style-too/",
-        "c_title": "BuzzFeed Has Style Too",
-        "d_dateUK": "26 Oct 2017",
         "e_dateISO": "2017-10-26",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/1b/f5/15fe504bccdbe9a1ea110b5ae328/worldwithoutwhom-sx336-bo1204203200.jpg",
         "g_alt": "without whom",
@@ -639,9 +467,6 @@
     },
     {
         "a_num": "302",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2017/10/15/the-strange-language-of-harvey-weinsteins-denial/",
-        "c_title": "The Strange Language of Harvey Weinstein’s Denial",
-        "d_dateUK": "15 Oct 2017",
         "e_dateISO": "2017-10-15",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/49/7b/7a6661ad311fc575d8caf512bba3/800px-harvey-weinstein-2010-time-100-shankbone.jpg",
         "g_alt": "harvey weinstein",
@@ -650,9 +475,6 @@
     },
     {
         "a_num": "301",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2017/10/11/300-up-still-getting-it-wrong/",
-        "c_title": "300 Up, Stil Getting It Wrong",
-        "d_dateUK": "11 Oct 2017",
         "e_dateISO": "2017-10-11",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/89/ff/1d463ca4cc7497752a7e128fe74d/geoff-as-dunce.png",
         "g_alt": "dunce pullum",
@@ -661,9 +483,6 @@
     },
     {
         "a_num": "300",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2017/10/01/on-the-ropes-at-radio-london/",
-        "c_title": "On the Ropes at Radio London",
-        "d_dateUK": "1 Oct 2017",
         "e_dateISO": "2017-10-01",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/77/94/2290d377740aa556d919d0706d4e/st-mary-le-bow.png",
         "g_alt": "bow bells",
@@ -672,9 +491,6 @@
     },
     {
         "a_num": "299",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2017/09/28/the-subtle-art-of-english-ethnic-slurs/",
-        "c_title": "The Subtle Art of English Ethnic Slurs",
-        "d_dateUK": "28 Sep 2017",
         "e_dateISO": "2017-09-28",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/5a/9a/7608d23e1de00689245c11f8ef74/michael-oleary.png",
         "g_alt": "michael o_leary",
@@ -683,9 +499,6 @@
     },
     {
         "a_num": "298",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2017/09/20/unapplied-linguistics/",
-        "c_title": "Unapplied Linguistics",
-        "d_dateUK": "20 Sep 2017",
         "e_dateISO": "2017-09-20",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/40/22/d2428623f414de22aef8414dde26/virgin-train-at-kings-cross.jpg",
         "g_alt": "virgin train",
@@ -694,9 +507,6 @@
     },
     {
         "a_num": "297",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2017/09/11/its-not-a-litmus-test/",
-        "c_title": "It’s Not a Litmus Test",
-        "d_dateUK": "11 Sep 2017",
         "e_dateISO": "2017-09-11",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/1c/1e/80d8df536c91c53f0d45db8e29e4/litmus.png",
         "g_alt": "litmus test",
@@ -705,9 +515,6 @@
     },
     {
         "a_num": "296",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2017/09/06/a-philosopher-grammarian-gets-something-right/",
-        "c_title": "A Philosopher-Grammarian Gets Something Right",
-        "d_dateUK": "6 Sep 2017",
         "e_dateISO": "2017-09-06",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/50/d6/bc4feb4c0cbf7758cf00d93f16e1/dummettbook.png",
         "g_alt": "dummett book",
@@ -716,9 +523,6 @@
     },
     {
         "a_num": "295",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2017/08/27/bogus-advice-for-op-ed-authors/",
-        "c_title": "Bogus Advice for Op-Ed Authors",
-        "d_dateUK": "27 Aug 2017",
         "e_dateISO": "2017-08-27",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/e8/64/32cbf9be09d7f43b2822d99daf63/nyt.png",
         "g_alt": "new york times",
@@ -727,9 +531,6 @@
     },
     {
         "a_num": "294",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2017/08/22/plain-talk-about-public-murder/",
-        "c_title": "Plain Talk About Public Murder",
-        "d_dateUK": "22 Aug 2017",
         "e_dateISO": "2017-08-22",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/0e/2d/91fafefebf635de3bddb593a3e81/turku.png",
         "g_alt": "turku murders",
@@ -738,9 +539,6 @@
     },
     {
         "a_num": "293",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2017/08/17/didnt-know-i-would-really-go/",
-        "c_title": "Didn’t Know I Would Really Go",
-        "d_dateUK": "17 Aug 2017",
         "e_dateISO": "2017-08-17",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/b5/91/146a7b244357eba56e5bcaab9ae5/campbell.png",
         "g_alt": "glen campbell",
@@ -749,9 +547,6 @@
     },
     {
         "a_num": "292",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2017/08/07/robots-gossiping-in-a-secret-language/",
-        "c_title": "Robots Gossiping in a Secret Language?",
-        "d_dateUK": "7 Aug 2017",
         "e_dateISO": "2017-08-07",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/f2/4d/4eadca66446e89de92b9434b7551/tworobots.png",
         "g_alt": "robots taling",
@@ -760,9 +555,6 @@
     },
     {
         "a_num": "291",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2017/08/02/back-to-the-real-world/",
-        "c_title": "Back to the Real World",
-        "d_dateUK": "2 Aug 2017",
         "e_dateISO": "2017-08-02",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/ab/ae/f49d7a6cc66f7ae529c58e98f731/konstanz.png",
         "g_alt": "konstanz",
@@ -771,9 +563,6 @@
     },
     {
         "a_num": "290",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2017/07/23/being-a-determinative/",
-        "c_title": "Being a Determinative",
-        "d_dateUK": "23 Jul 2017",
         "e_dateISO": "2017-07-23",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/c5/9f/89c41cf774c3c3cd579412473ca3/maxresdefault.jpg",
         "g_alt": "slim chance",
@@ -782,9 +571,6 @@
     },
     {
         "a_num": "289",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2017/07/17/the-americans-have-no-adverbs/",
-        "c_title": "‘The Americans Have No Adverbs’",
-        "d_dateUK": "17 Jul 2017",
         "e_dateISO": "2017-07-17",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/c2/35/a04ce2ebb1ef8222aa20bb22bbc9/br-eng-am-eng.png",
         "g_alt": "br en vs am en",
@@ -793,9 +579,6 @@
     },
     {
         "a_num": "288",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2017/07/12/the-much-needed-gap/",
-        "c_title": "The Much-Needed Gap",
-        "d_dateUK": "12 Jul 2017",
         "e_dateISO": "2017-07-12",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/87/4a/80e8487744192c7d84905150c6a6/kindofwoman.png",
         "g_alt": "kind of woman",
@@ -804,9 +587,6 @@
     },
     {
         "a_num": "287",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2017/06/27/english-grammar-day/",
-        "c_title": "English Grammar Day",
-        "d_dateUK": "27 Jun 2017",
         "e_dateISO": "2017-06-27",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/f9/ee/de8dc6b90e11eb131c48fa97d709/propriety.png",
         "g_alt": "propriety",
@@ -815,9 +595,6 @@
     },
     {
         "a_num": "286",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2017/06/22/worst-sentence-ever-seen-in-academic-prose/",
-        "c_title": "Worst Sentence Ever Seen in Academic Prose",
-        "d_dateUK": "22 Jun 2017",
         "e_dateISO": "2017-06-22",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/53/6f/1cf782580071075dda84e9876558/hall.png",
         "g_alt": "fitzedward hall",
@@ -826,9 +603,6 @@
     },
     {
         "a_num": "285",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2017/06/12/of-cadillacs-and-prairie-dogs/",
-        "c_title": "Of Cadillacs and Prairie Dogs",
-        "d_dateUK": "12 Jun 2017",
         "e_dateISO": "2017-06-12",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/8e/ce/1165f8c876ece909fdd69e6a9e03/prairiedog.png",
         "g_alt": "prairie dog",
@@ -837,9 +611,6 @@
     },
     {
         "a_num": "284",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2017/06/04/why-wont-they-heed-plain-facts/",
-        "c_title": "Why Won’t They Heed Plain Facts?",
-        "d_dateUK": "4 Jun 2017",
         "e_dateISO": "2017-06-04",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/26/82/401289f6686bdc9778dad9d3982c/evidence.jpg",
         "g_alt": "evidence",
@@ -848,9 +619,6 @@
     },
     {
         "a_num": "283",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2017/05/23/dracula-strunk-and-correct-english-usage/",
-        "c_title": "Dracula, Strunk, and Correct English Usage",
-        "d_dateUK": "23 May 2017",
         "e_dateISO": "2017-05-23",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/5d/18/d84d2a04eae5608ce5a73b480c87/strunkpic-dracula.jpg",
         "g_alt": "strunk dracula",
@@ -859,9 +627,6 @@
     },
     {
         "a_num": "282",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2017/05/14/being-a-declarative/",
-        "c_title": "Being a Declarative (or Interrogative, or Imperative, or Exclamative)",
-        "d_dateUK": "14 May 2017",
         "e_dateISO": "2017-05-14",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/f7/fc/42094e2a84401f4d46782a0ac73f/dirtyface.png",
         "g_alt": "dirty face",
@@ -870,9 +635,6 @@
     },
     {
         "a_num": "281",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2017/05/08/the-importance-of-being-a-prince/",
-        "c_title": "The Importance of Being a Prince",
-        "d_dateUK": "8 May 2017",
         "e_dateISO": "2017-05-08",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/91/c9/17c68790befe1a7d39c1e3271cc6/princephilip.png",
         "g_alt": "prince philip",
@@ -881,9 +643,6 @@
     },
     {
         "a_num": "280",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2017/05/03/grammar-blunders-and-journalistic-discourtesy/",
-        "c_title": "Grammar Blunders and Journalistic Discourtesy",
-        "d_dateUK": "3 May 2017",
         "e_dateISO": "2017-05-03",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/83/62/aca884c3cc4cea627a2a4086ba57/fiverdraft.png",
         "g_alt": " churchill fiver",
@@ -892,9 +651,6 @@
     },
     {
         "a_num": "279",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2017/04/23/the-risky-business-of-deadpan-humor/",
-        "c_title": "The Risky Business of Deadpan Humor",
-        "d_dateUK": "23 Apr 2017",
         "e_dateISO": "2017-04-23",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/2b/b4/a4da2cea6c962564814cc8a47073/chinodino.jpg",
         "g_alt": "chinese dino",
@@ -903,9 +659,6 @@
     },
     {
         "a_num": "278",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2017/04/18/adverbs-and-united-airlines/",
-        "c_title": "Adverbs and United Airlines",
-        "d_dateUK": "18 Apr 2017",
         "e_dateISO": "2017-04-18",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/32/6d/04c134d8874cb27f4a85791d2799/flythefriendlyskies.png",
         "g_alt": "united airlines",
@@ -914,9 +667,6 @@
     },
     {
         "a_num": "277",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2017/04/13/the-many-first-rules-of-politics/",
-        "c_title": "The Many First Rules of Politics",
-        "d_dateUK": "13 Apr 2017",
         "e_dateISO": "2017-04-13",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/22/f6/4f99c7db224a37da2a74272fe909/press-secretary-sean-spicer.jpg",
         "g_alt": "sean spicer",
@@ -925,9 +675,6 @@
     },
     {
         "a_num": "276",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2017/04/03/the-worlds-greatest-grammarian/",
-        "c_title": "The World’s Greatest Grammarian",
-        "d_dateUK": "03 Apr 2017",
         "e_dateISO": "2017-04-03",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/db/e3/22a92cac2c32d63150f41c21d8f4/sunshinebeach.jpg",
         "g_alt": "white beach",
@@ -936,9 +683,6 @@
     },
     {
         "a_num": "275",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2017/03/28/the-team-sat-in-its-hotel-drinking-its-beers/",
-        "c_title": "The Team Sat in Its Hotel Drinking Its Beers",
-        "d_dateUK": "28 Mar 2017",
         "e_dateISO": "2017-03-28",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/d6/79/f549789ee0d030788bda4acac494/4785481034-d9f7370aa9.jpg",
         "g_alt": "football fans",
@@ -947,9 +691,6 @@
     },
     {
         "a_num": "274",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2017/03/23/a-brown-eyed-handsome-man/",
-        "c_title": "A Brown Eyed Handsome Man",
-        "d_dateUK": "23 Mar 2017",
         "e_dateISO": "2017-03-23",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/f2/77/73a076f118ef203b6cdce20acf45/screen-shot-2017-03-23-at-1-25-19-pm.png",
         "g_alt": "chuck berry",
@@ -958,9 +699,6 @@
     },
     {
         "a_num": "273",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2017/03/13/word-processing-hell/",
-        "c_title": "Word-Processing Misery",
-        "d_dateUK": "13 Mar 2017",
         "e_dateISO": "2017-03-13",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/f8/47/cccf90d0f2f6f15ed10b56546296/8d4613c8eea3bfee4d27a56b2543509b.jpg",
         "g_alt": "john cleese",
@@ -969,9 +707,6 @@
     },
     {
         "a_num": "272",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2017/03/08/data-mining-for-personally-targeted-politics/",
-        "c_title": "Data Mining for Personally Targeted Politics",
-        "d_dateUK": "8 Mar 2017",
         "e_dateISO": "2017-03-08",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/98/d7/896bea97d6c78b1c1ca2142eac94/brexit-vote-map.png",
         "g_alt": "brexit vote map",
@@ -980,9 +715,6 @@
     },
     {
         "a_num": "271",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2017/02/26/once-more-into-the-fray-pluto-and-ixion-among-others/",
-        "c_title": "Once More Into the Fray, Pluto (and Ixion, Among Others)",
-        "d_dateUK": "26 Feb 2017",
         "e_dateISO": "2017-02-26",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/d0/c4/11ceade137ead9a2fa4f767b666f/screen-shot-2017-02-23-at-3-45-16-pm.png",
         "g_alt": "pluto",
@@ -991,9 +723,6 @@
     },
     {
         "a_num": "270",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2017/02/21/still-looking-for-a-triple/",
-        "c_title": "Still Looking for a Triple",
-        "d_dateUK": "21 Feb 2017",
         "e_dateISO": "2017-02-21",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/fd/c8/0643a5afb5c3eaaa43cc62e30215/embedded.png",
         "g_alt": "grammar burger",
@@ -1002,9 +731,6 @@
     },
     {
         "a_num": "269",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2017/02/16/for-want-of-a-copyeditor-the-sense-was-lost/",
-        "c_title": "For Want of a Copy Editor the Sense Was Lost",
-        "d_dateUK": "16 Feb 2017",
         "e_dateISO": "2017-02-16",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/e7/cb/9a25255d35c3690dbfff3d4a2b7f/330px-yuri-matiyasevich-portrait-1969.jpg",
         "g_alt": "yuri matiyasevich",
@@ -1013,9 +739,6 @@
     },
     {
         "a_num": "268",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2017/02/06/how-not-to-teach-chinese/",
-        "c_title": "How Not to Teach Chinese",
-        "d_dateUK": "6 Feb 2017",
         "e_dateISO": "2017-02-06",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/5a/e8/9263272622117b15b9732dd0703d/chinese-characters-logo.jpg",
         "g_alt": "chinese characters",
@@ -1024,9 +747,6 @@
     },
     {
         "a_num": "267",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2017/02/02/when-two-negatives-dont-make-a-positive/",
-        "c_title": "When Two Negatives Don’t Make a Positive",
-        "d_dateUK": "2 Feb 2017",
         "e_dateISO": "2017-02-02",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/39/aa/6b18d615344228fb146b37257386/i-wont-not-use-no-double-negatives.jpg",
         "g_alt": "bart simpson",
@@ -1035,9 +755,6 @@
     },
     {
         "a_num": "266",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2017/01/24/recovering-my-heritage/",
-        "c_title": "Recovering My Heritage",
-        "d_dateUK": "24 Jan 2017",
         "e_dateISO": "2017-01-24",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/af/5f/e3daba7521fe0025d2cfbb4e33a1/robertburns.png",
         "g_alt": "robert burns",
@@ -1046,9 +763,6 @@
     },
     {
         "a_num": "265",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2017/01/17/agency-style-for-your-eyes-only/",
-        "c_title": "Agency Style, For Your Eyes Only",
-        "d_dateUK": "17 Jan 2017",
         "e_dateISO": "2017-01-17",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/5b/04/caca14996bc36584a8bc433c5381/cia.png",
         "g_alt": "cia",
@@ -1057,9 +771,6 @@
     },
     {
         "a_num": "264",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2017/01/11/decrying-dialects-and-despising-speakers/",
-        "c_title": "Decrying Dialects and Despising Speakers",
-        "d_dateUK": "11 Jan 2017",
         "e_dateISO": "2017-01-11",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/ea/80/80e119f8bce300c1c9940628a93f/trayvonmartinhooded.jpg",
         "g_alt": "trayvon martin",
@@ -1068,9 +779,6 @@
     },
     {
         "a_num": "263",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2017/01/05/if-only-i-could-tell-you/",
-        "c_title": "If Only I Could Tell You",
-        "d_dateUK": "5 Jan 2017",
         "e_dateISO": "2017-01-05",
         "f_image": "",
         "g_alt": "",
@@ -1079,9 +787,6 @@
     },
     {
         "a_num": "262",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2016/12/18/where-are-the-happiness-boys/",
-        "c_title": "Where Are the Happiness Boys?",
-        "d_dateUK": "18 Dec 2016",
         "e_dateISO": "2016-12-18",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/38/b4/5bcfbc2697de3e48f4dd52b896f7/79627c3cb0eeb087e132486177f5a791.jpg",
         "g_alt": "pipe man",
@@ -1090,9 +795,6 @@
     },
     {
         "a_num": "261",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2016/12/13/make-american-accents-great-again/",
-        "c_title": "Make American Accents Great Again",
-        "d_dateUK": "13 Dec 2016",
         "e_dateISO": "2016-12-13",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/a8/a1/1e746a7e310ac7d1d2c1c850d4f7/enhanced-15475-1418079970-24.jpg",
         "g_alt": "american accents",
@@ -1101,9 +803,6 @@
     },
     {
         "a_num": "260",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2016/12/06/for-want-of-an-oxford-comma/",
-        "c_title": "For Want of an Oxford Comma",
-        "d_dateUK": "6 Dec 2016",
         "e_dateISO": "2016-12-06",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/a4/26/35707feffdf49ea488ac36527bbe/rickman.jpg",
         "g_alt": "alan rickman",
@@ -1112,9 +811,6 @@
     },
     {
         "a_num": "259",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2016/11/28/arrival-just-say-yes/",
-        "c_title": "Arrival: Just Say Yes",
-        "d_dateUK": "28 Nov 2016",
         "e_dateISO": "2016-11-28",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/ad/16/ade81b8f1ce22cb39e7a4092b7ae/louisebanks.jpg",
         "g_alt": "louise banks",
@@ -1123,9 +819,6 @@
     },
     {
         "a_num": "258",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2016/11/13/the-unoriginality-of-orwells-critique-of-language/",
-        "c_title": "The Unoriginality of Orwell’s Critique of Language",
-        "d_dateUK": "13 Nov 2016",
         "e_dateISO": "2016-11-13",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/6a/c1/42c8e0fc1e24828c089ceec7354e/politicsandtheenglishlanguage.jpg",
         "g_alt": "english language",
@@ -1134,9 +827,6 @@
     },
     {
         "a_num": "257",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2016/11/09/sexual-abuse-gangs-and-racism/",
-        "c_title": "Sexual-Abuse Gangs and Racism",
-        "d_dateUK": "9 Nov 2016",
         "e_dateISO": "2016-11-09",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/6b/9c/a6d6a916bef02e64fc0cc81d50a2/racism-entry.png",
         "g_alt": "racism entry",
@@ -1145,9 +835,6 @@
     },
     {
         "a_num": "256",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2016/11/03/witticisms-plagiarism-and-language-history/",
-        "c_title": "Witticisms, Plagiarism, and Language History",
-        "d_dateUK": "3 Nov 2016",
         "e_dateISO": "2016-11-03",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/ef/1f/e77af6c014220e810ca9da0780e4/dannykaye.png",
         "g_alt": "danny kaye",
@@ -1156,9 +843,6 @@
     },
     {
         "a_num": "255",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2016/10/24/an-ill-wind-that-no-one-blows-good/",
-        "c_title": "An Ill Wind That No One Blows Good",
-        "d_dateUK": "24 Oct 2016",
         "e_dateISO": "2016-10-24",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/af/83/9d05f71a8890920f962c6492f6d6/call-it-a-clarinet.png",
         "g_alt": "clarinet",
@@ -1167,9 +851,6 @@
     },
     {
         "a_num": "254",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2016/10/20/orgies-convoys-and-precision-in-word-meanings/",
-        "c_title": "Orgies, Convoys, and Precision in Word Meanings",
-        "d_dateUK": "20 Oct 2016",
         "e_dateISO": "2016-10-20",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/45/2c/6121df9fbefe9d9911f8567371dd/convoy-line-2.jpg",
         "g_alt": "truck convoy",
@@ -1178,9 +859,6 @@
     },
     {
         "a_num": "253",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2016/10/10/the-internet-isnt-changing-english-nor-the-converse/",
-        "c_title": "The Internet Isn’t Changing English. Nor the Converse",
-        "d_dateUK": "10 Oct 2016",
         "e_dateISO": "2016-10-10",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/a7/2f/6dc054e07857c1ca715e49937f91/sicha.png",
         "g_alt": "choire sicha",
@@ -1189,9 +867,6 @@
     },
     {
         "a_num": "252",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2016/10/04/the-anglophone-millstone/",
-        "c_title": "The Anglophone Millstone",
-        "d_dateUK": "4 Oct 2016",
         "e_dateISO": "2016-10-04",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/33/a9/8686891b5c12a7e6065429524e90/sprechen.png",
         "g_alt": "sprechen deutsch",
@@ -1200,9 +875,6 @@
     },
     {
         "a_num": "251",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2016/09/29/to-seek-out-new-vowels/",
-        "c_title": "To Seek Out New Vowels…",
-        "d_dateUK": "29 Sep 2016",
         "e_dateISO": "2016-09-29",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/eb/d5/5ff2f539bad6c08580b883eeb1c6/vowels-in-mouth.png",
         "g_alt": "vowels in mouth",
@@ -1211,9 +883,6 @@
     },
     {
         "a_num": "250",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2016/09/20/mensiversaries/",
-        "c_title": "Mensiversaries",
-        "d_dateUK": "20 Sep 2016",
         "e_dateISO": "2016-09-20",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/14/20/e6d8025b52a8b81200ed1258f97b/solstice.png",
         "g_alt": "stonehenge",
@@ -1222,9 +891,6 @@
     },
     {
         "a_num": "249",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2016/09/12/a-postcard-from-brno/",
-        "c_title": "A Postcard from Brno",
-        "d_dateUK": "12 Sep 2016",
         "e_dateISO": "2016-09-12",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/64/1f/be18424312d82e436ecf367d0e4f/tugendhat.png",
         "g_alt": "villa tugendhat, brno",
@@ -1233,9 +899,6 @@
     },
     {
         "a_num": "248",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2016/09/06/the-two-voices-of-trump/",
-        "c_title": "The Two Voices of Trump",
-        "d_dateUK": "6 Sep 2016",
         "e_dateISO": "2016-09-06",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/93/06/4fbd2eb65921b28fa38557ffd5d5/janus.png",
         "g_alt": "janus two faces",
@@ -1244,9 +907,6 @@
     },
     {
         "a_num": "247",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2016/08/31/foul-things-of-the-night/",
-        "c_title": "Foul Things of the Night",
-        "d_dateUK": "31 Aug 2016",
         "e_dateISO": "2016-08-31",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/1c/3c/b9f7921f02b28d36fc99950215ca/dracula.jpg",
         "g_alt": "dracula",
@@ -1255,9 +915,6 @@
     },
     {
         "a_num": "246",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2016/08/21/machine-to-human-communication-nobody-cares/",
-        "c_title": "Machine-to-Human Communication: Nobody Cares",
-        "d_dateUK": "21 Aug 2016",
         "e_dateISO": "2016-08-21",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/fb/e7/25420919cc0a8416fbe76acfd018/edinburgh-trams-tfe277.jpg",
         "g_alt": "edinburgh trams",
@@ -1266,9 +923,6 @@
     },
     {
         "a_num": "245",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2016/08/15/the-linguistics-of-assassination-threats/",
-        "c_title": "The Linguistics of Assassination Threats",
-        "d_dateUK": "15 Aug 2016",
         "e_dateISO": "2016-08-15",
         "f_image": "",
         "g_alt": "",
@@ -1277,9 +931,6 @@
     },
     {
         "a_num": "244",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2016/08/11/in-the-phonetic-jungle/",
-        "c_title": "In the Phonetic Jungle",
-        "d_dateUK": "11 Aug 2016",
         "e_dateISO": "2016-08-11",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/6e/91/45918159f1cf57ec1b4201449367/rabbit-redux.png",
         "g_alt": "rabbit redux",
@@ -1288,9 +939,6 @@
     },
     {
         "a_num": "243",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2016/08/01/reflections-on-the-trivium/",
-        "c_title": "Reflections on the Trivium",
-        "d_dateUK": "1 Aug 2016",
         "e_dateISO": "2016-08-01",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/f0/6d/9b2501994c298b1f396faf000a8c/trivium.png",
         "g_alt": "trivium",
@@ -1299,9 +947,6 @@
     },
     {
         "a_num": "242",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2016/07/27/finger-pointing-trouble-saving-and-pussyfooting/",
-        "c_title": "Finger-pointing, Trouble-saving, and Pussyfooting",
-        "d_dateUK": "27 Jul 2016",
         "e_dateISO": "2016-07-27",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/a6/0b/2b2c2e61231461f1ea4974e066aa/why-use-passive.png",
         "g_alt": "why use passive voice",
@@ -1310,9 +955,6 @@
     },
     {
         "a_num": "241",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2016/07/17/the-worlds-best-philosopher-of-linguistics/",
-        "c_title": "The World’s Best Philosopher of Linguistics",
-        "d_dateUK": "17 Jul 2016",
         "e_dateISO": "2016-07-17",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/0d/bd/cca960403efe4fcc899eec73c234/putnam.png",
         "g_alt": "hilary putnam",
@@ -1321,9 +963,6 @@
     },
     {
         "a_num": "240",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2016/07/12/the-worst-form-of-government/",
-        "c_title": "The Worst Form of Government",
-        "d_dateUK": "12 Jul 2016",
         "e_dateISO": "2016-07-12",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/59/86/f89f5eb207a651bd0f35be8f1408/556522ca316fd-robert-briffault.jpg",
         "g_alt": "robert briffault",
@@ -1332,9 +971,6 @@
     },
     {
         "a_num": "239",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2016/07/07/being-an-auxiliary/",
-        "c_title": "Being an Auxiliary",
-        "d_dateUK": "7 Jul 2016",
         "e_dateISO": "2016-07-07",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/35/ad/104d28140d3b6a686e420b5e76d6/primes.jpg",
         "g_alt": "prime numbers",
@@ -1343,9 +979,6 @@
     },
     {
         "a_num": "238",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2016/06/27/linguification-thats-the-name-of-the-game/",
-        "c_title": "Linguification: That’s the Name of the Game",
-        "d_dateUK": "27 Jun 2016",
         "e_dateISO": "2016-06-27",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/93/c4/55b47f37d73ebacb89ccc152e3b1/screen-shot-2016-06-27-at-12-47-48-pm.png",
         "g_alt": "narendra modi",
@@ -1354,9 +987,6 @@
     },
     {
         "a_num": "237",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2016/06/22/a-postcard-from-schleswig-holstein/",
-        "c_title": "A Postcard from Schleswig-Holstein",
-        "d_dateUK": "22 Jun 2016",
         "e_dateISO": "2016-06-22",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/14/23/c8e4128f8e39a0f5fed76680ba9f/screen-shot-2016-06-21-at-5-23-28-pm.png",
         "g_alt": "sceptred isle",
@@ -1365,9 +995,6 @@
     },
     {
         "a_num": "236",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2016/06/12/direct-objects-or-lack-thereof/",
-        "c_title": "Direct Objects or Lack Thereof",
-        "d_dateUK": "12 Jun 2016",
         "e_dateISO": "2016-06-12",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/1a/01/a73c906824524e2abaeb989fa0d1/71plylc3sel.jpg",
         "g_alt": "economist style guide",
@@ -1376,9 +1003,6 @@
     },
     {
         "a_num": "235",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2016/06/07/liars-and-snakes-plumbing-new-rhetorical-depths/",
-        "c_title": "Liars and Snakes: Plumbing New Rhetorical Depths",
-        "d_dateUK": "7 Jun 2016",
         "e_dateISO": "2016-06-07",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/7e/02/885f9c4f9ff0c078578d0ed17982/o-boris-johnson-facebook.jpg",
         "g_alt": "boris johnson",
@@ -1387,9 +1011,6 @@
     },
     {
         "a_num": "234",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2016/06/02/triciaisms/",
-        "c_title": "Triciaisms",
-        "d_dateUK": "2 Jun 2016",
         "e_dateISO": "2016-06-02",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/c4/1f/5bd1f601969b6ed2798909175fda/tricia-smiling.png",
         "g_alt": "tricia smiling",
@@ -1398,9 +1019,6 @@
     },
     {
         "a_num": "233",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2016/05/23/syntactic-self-harm-in-st-jamess-street/",
-        "c_title": "Syntactic Self-Harm on St James’s Street",
-        "d_dateUK": "23 May 2016",
         "e_dateISO": "2016-05-23",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/27/cc/4cbc005969a0e88f13b83c1b947a/economist-building-london-1959-1964.jpg",
         "g_alt": "economist building",
@@ -1409,9 +1027,6 @@
     },
     {
         "a_num": "232",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2016/05/18/genderqueer-and-baconsphere/",
-        "c_title": "‘Genderqueer’ and ‘Baconsphere’",
-        "d_dateUK": "18 May 2016",
         "e_dateISO": "2016-05-18",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/96/10/709359496225c8ed8f18977b3646/charisma-ngram.png",
         "g_alt": "charisma ngram",
@@ -1420,9 +1035,6 @@
     },
     {
         "a_num": "231",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2016/05/08/grammar-test-dispute-resolution/",
-        "c_title": "Grammar-Test Dispute Resolution",
-        "d_dateUK": "8 May 2016",
         "e_dateISO": "2016-05-08",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/cc/0f/27bea241ea0a7d0941bcbd0f9569/hangul.png",
         "g_alt": "hangul",
@@ -1431,9 +1043,6 @@
     },
     {
         "a_num": "230",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2016/05/03/famous-women-banknotes-and-online-abuse/",
-        "c_title": "Famous Women, Banknotes, and Online Abuse",
-        "d_dateUK": "3 May 2016",
         "e_dateISO": "2016-05-03",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/9e/92/7cd4bc344a833c511f16e71c2e6b/6a00d83451aec269e201bb0879a396970d.jpg",
         "g_alt": "mary somerville",
@@ -1442,9 +1051,6 @@
     },
     {
         "a_num": "229",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2016/04/28/the-social-consequences-of-switching-to-english/",
-        "c_title": "The Social Consequences of Switching to English",
-        "d_dateUK": "28 Apr 2016",
         "e_dateISO": "2016-04-28",
         "f_image": "",
         "g_alt": "",
@@ -1453,9 +1059,6 @@
     },
     {
         "a_num": "228",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2016/04/18/correctincorrect-grammar-test-items/",
-        "c_title": "Correct/Incorrect Grammar-Test Items",
-        "d_dateUK": "18 Apr 2016",
         "e_dateISO": "2016-04-18",
         "f_image": "",
         "g_alt": "",
@@ -1464,9 +1067,6 @@
     },
     {
         "a_num": "227",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2016/04/13/let-us-edit-your-article/",
-        "c_title": "Let Us Edit Your Article",
-        "d_dateUK": "13 Apr 2016",
         "e_dateISO": "2016-04-13",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/24/5a/841aa4923c6a9e1458a2a9f61a4f/spam.png",
         "g_alt": "junk email",
@@ -1475,9 +1075,6 @@
     },
     {
         "a_num": "226",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2016/04/03/being-an-antecedent/",
-        "c_title": "Being an Antecedent",
-        "d_dateUK": "3 Apr 2016",
         "e_dateISO": "2016-04-03",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/5c/ca/197231d6a535e84c8ca1598aaaaa/javid.png",
         "g_alt": "sajid javid",
@@ -1486,9 +1083,6 @@
     },
     {
         "a_num": "225",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2016/03/29/being-a-subjunctive/",
-        "c_title": "Being a Subjunctive",
-        "d_dateUK": "29 Mar 2016",
         "e_dateISO": "2016-03-29",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/f4/c1/954e3dcd87b397a3e2e7014a1358/buddyholly.jpg",
         "g_alt": "buddy holly",
@@ -1497,9 +1091,6 @@
     },
     {
         "a_num": "224",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2016/03/24/sentences-i-hope-never-to-use/",
-        "c_title": "Sentences I Hope Never to Use",
-        "d_dateUK": "24 Mar 2016",
         "e_dateISO": "2016-03-24",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/fd/00/f3ab8b46fc86f683fff8c6cf0f32/fire-extinguisher.png",
         "g_alt": "fire extinguishers",
@@ -1508,9 +1099,6 @@
     },
     {
         "a_num": "223",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2016/03/09/scalias-linguistic-acumen/",
-        "c_title": "Scalia’s Linguistic Acumen",
-        "d_dateUK": "9 Mar 2016",
         "e_dateISO": "2016-03-09",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/87/1d/534778a43e26b720b0a3b81e8023/220px-antonin-scalia-scotus-photo-portrait.jpg",
         "g_alt": "antonin scalia",
@@ -1519,9 +1107,6 @@
     },
     {
         "a_num": "222",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2016/02/29/being-an-interjection/",
-        "c_title": "Being an Interjection",
-        "d_dateUK": "29 Feb 2016",
         "e_dateISO": "2016-02-29",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/9a/66/162a79ff6e90c61087a1e56f8246/facebookemoji.png",
         "g_alt": "emoji",
@@ -1530,9 +1115,6 @@
     },
     {
         "a_num": "221",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2016/02/23/leaps-in-the-dark-the-discourse-of-brexit/",
-        "c_title": "Leaps in the Dark: the Discourse of Brexit",
-        "d_dateUK": "23 Feb 2016",
         "e_dateISO": "2016-02-23",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/4c/0e/9a36cfda93ded4f9c0beb1135134/eu.png",
         "g_alt": "eu",
@@ -1541,9 +1123,6 @@
     },
     {
         "a_num": "220",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2016/02/18/polysemy-and-maturity/",
-        "c_title": "Polysemy and Maturity",
-        "d_dateUK": "18 Feb 2016",
         "e_dateISO": "2016-02-18",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/59/3c/d1a0b059cc4d4c0b15497d8ccf1c/screen-shot-2016-02-18-at-4-03-36-pm.png",
         "g_alt": "elephants",
@@ -1552,9 +1131,6 @@
     },
     {
         "a_num": "219",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2016/02/11/to-co-author-or-not-to-co-author/",
-        "c_title": "To Co-Author, or Not to Co-Author?",
-        "d_dateUK": "11 Feb 2016",
         "e_dateISO": "2016-02-11",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/af/ad/9be4de5dca4b3c9f5d50c24fcaae/ucscgraph.png",
         "g_alt": "network graph",
@@ -1563,9 +1139,6 @@
     },
     {
         "a_num": "218",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2016/02/03/tricia/",
-        "c_title": "Tricia",
-        "d_dateUK": "3 Feb 2016",
         "e_dateISO": "2016-02-03",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/71/9e/9eb2902a08f63cf36aebbe084c17/tricia.jpg",
         "g_alt": "tricia",
@@ -1574,9 +1147,6 @@
     },
     {
         "a_num": "217",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2016/01/24/they-will-never-forget-you/",
-        "c_title": "They Will Never Forget You…",
-        "d_dateUK": "24 Jan 2016",
         "e_dateISO": "2016-01-24",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/3b/c9/4029d66ecb9afdc1027ad7220ab4/r-5768580-1402134572-1404-jpeg.jpg",
         "g_alt": "eagles album",
@@ -1585,9 +1155,6 @@
     },
     {
         "a_num": "216",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2016/01/20/the-awful-chinese-writing-system/",
-        "c_title": "The Awful Chinese Writing System",
-        "d_dateUK": "20 Jan 2016",
         "e_dateISO": "2016-01-20",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/6e/51/e47f0ad6e6e7e4bd985f87af0227/biang.png",
         "g_alt": "biang",
@@ -1596,9 +1163,6 @@
     },
     {
         "a_num": "215",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2016/01/14/grown-ups-deserve-better/",
-        "c_title": "Grown-Ups Deserve Better",
-        "d_dateUK": "14 Jan 2016",
         "e_dateISO": "2016-01-14",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/30/20/4104291427621031623ff79b45c6/grammar4grownups.png",
         "g_alt": "grammar for grown-ups",
@@ -1607,9 +1171,6 @@
     },
     {
         "a_num": "214",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2016/01/04/the-quiet-certainty-of-antedating/",
-        "c_title": "The Quiet Certainty of Antedating",
-        "d_dateUK": "4 Jan 2016",
         "e_dateISO": "2016-01-04",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/0d/c9/d8913518187adf723aec43e7abd9/pgwodehouse.jpg",
         "g_alt": "p.g. wodehouse",
@@ -1618,9 +1179,6 @@
     },
     {
         "a_num": "213",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2015/12/13/the-footprints-of-a-gigantic-hound/",
-        "c_title": "The Footprints of a Gigantic Hound",
-        "d_dateUK": "13 Dec 2015",
         "e_dateISO": "2015-12-13",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/55/3c/5727850ddda8d7c6a3d443ac80eb/hound.jpg",
         "g_alt": "gigantic hound",
@@ -1629,9 +1187,6 @@
     },
     {
         "a_num": "212",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2015/12/08/people-of-color/",
-        "c_title": "‘People of Color’",
-        "d_dateUK": "8 Dec 2015",
         "e_dateISO": "2015-12-08",
         "f_image": "",
         "g_alt": "",
@@ -1640,9 +1195,6 @@
     },
     {
         "a_num": "211",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2015/12/03/english-and-its-undeserved-good-luck/",
-        "c_title": "English and Its Undeserved Good Luck",
-        "d_dateUK": "3 Dec 2015",
         "e_dateISO": "2015-12-03",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/dc/a7/cad06f46ff0d95b6efa01e5bf417/englangmap.png",
         "g_alt": "map of english",
@@ -1651,9 +1203,6 @@
     },
     {
         "a_num": "210",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2015/11/23/the-unsuitability-of-english/",
-        "c_title": "The Unsuitability of English",
-        "d_dateUK": "23 Nov 2015",
         "e_dateISO": "2015-11-23",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/64/ce/8fb663f8ee7abd0671359912e3e5/paushuize.png",
         "g_alt": "paushuize, utrecht",
@@ -1662,9 +1211,6 @@
     },
     {
         "a_num": "209",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2015/11/15/a-postcard-from-bilbao/",
-        "c_title": "A Postcard from Bilbao",
-        "d_dateUK": "15 Nov 2015",
         "e_dateISO": "2015-11-15",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/83/24/5f1570ea01102877fa7537c999b7/800px-guggenheim-bilbao-06-2012-panorama-2680.jpg",
         "g_alt": "guggenheim, bilbao",
@@ -1673,9 +1219,6 @@
     },
     {
         "a_num": "208",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2015/11/08/prepositions-as-conjunctions-whales-as-fish/",
-        "c_title": "Prepositions as Conjunctions, Whales as Fish",
-        "d_dateUK": "8 Nov 2015",
         "e_dateISO": "2015-11-08",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/6f/cf/c786d361662d24490a2c766e0cd8/sampletest.png",
         "g_alt": "sample test",
@@ -1684,9 +1227,6 @@
     },
     {
         "a_num": "207",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2015/11/03/only-in-the-right-position/",
-        "c_title": "Only in the Right Position",
-        "d_dateUK": "3 Nov 2015",
         "e_dateISO": "2015-11-03",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/3f/80/80fdfaaa9470f9bcf865b64713e1/2cac48e4476d82244d16fbd56145a6af-500x500x1.jpg",
         "g_alt": "the flamingos",
@@ -1695,9 +1235,6 @@
     },
     {
         "a_num": "206",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2015/10/26/evasive-passives-in-texas/",
-        "c_title": "Evasive Passives in Texas",
-        "d_dateUK": "26 Oct 2015",
         "e_dateISO": "2015-10-26",
         "f_image": "",
         "g_alt": "",
@@ -1706,9 +1243,6 @@
     },
     {
         "a_num": "205",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2015/10/21/being-a-pronoun/",
-        "c_title": "Being a Pronoun",
-        "d_dateUK": "21 Oct 2015",
         "e_dateISO": "2015-10-21",
         "f_image": "",
         "g_alt": "",
@@ -1717,9 +1251,6 @@
     },
     {
         "a_num": "204",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2015/10/11/saying-the-in-german/",
-        "c_title": "Saying ‘the’ in German",
-        "d_dateUK": "11 Oct 2015",
         "e_dateISO": "2015-10-11",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/d8/37/bb93713d753df23f9f64092fba1e/tiger-im-tierpark-berlin-3f19ebc6-e81b-4261-b927-5e99a6473862.jpg",
         "g_alt": "tiger",
@@ -1728,9 +1259,6 @@
     },
     {
         "a_num": "203",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2015/10/06/the-third-flaw-in-the-second-amendment/",
-        "c_title": "The Third Flaw in the Second Amendment",
-        "d_dateUK": "6 Oct 2015",
         "e_dateISO": "2015-10-06",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/4c/68/7fd8491c8df64f141d588fad73a6/9eefe82c-d60f-4f34-b5da-cfa2325e40e5.png",
         "g_alt": "no guns",
@@ -1739,9 +1267,6 @@
     },
     {
         "a_num": "202",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2015/10/01/everyday-artificial-stupidity/",
-        "c_title": "Everyday Artificial Stupidity",
-        "d_dateUK": "1 Oct 2015",
         "e_dateISO": "2015-10-01",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/01/46/3c04572b1aec6d8a822ef6439d5f/oneminutes.png",
         "g_alt": "one minutes",
@@ -1750,9 +1275,6 @@
     },
     {
         "a_num": "201",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2015/09/21/sex-and-verbs-and-rock-n-roll/",
-        "c_title": "Sex and Verbs and Rock ’n’ Roll",
-        "d_dateUK": "21 Sep 2015",
         "e_dateISO": "2015-09-21",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/11/37/78c97ac17e1eb567062153e2621a/habereckl-3-small.jpg",
         "g_alt": "habereckl",
@@ -1761,9 +1283,6 @@
     },
     {
         "a_num": "200",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2015/09/16/pointless-vocabulary-diversity-and-grammatical-structure/",
-        "c_title": "Pointless Vocabulary Diversity and Grammatical Structure",
-        "d_dateUK": "16 Sep 2015",
         "e_dateISO": "2015-09-16",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/e7/76/d67370ad76e4a9d838e6eeaae52d/languagepolice.jpg",
         "g_alt": "language police",
@@ -1772,9 +1291,6 @@
     },
     {
         "a_num": "199",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2015/09/01/best-linguistic-jokes-of-the-2015-fringe/",
-        "c_title": "Best Linguistic Jokes of the 2015 Fringe",
-        "d_dateUK": "1 Sep 2015",
         "e_dateISO": "2015-09-01",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/e8/44/23a7db4cf8410c1cdaaf044bafbf/330px-jo-brand-award.jpg",
         "g_alt": "jo brand",
@@ -1783,9 +1299,6 @@
     },
     {
         "a_num": "198",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2015/08/27/the-structure-of-university-names/",
-        "c_title": "The Structure of University Names",
-        "d_dateUK": "27 Aug 2015",
         "e_dateISO": "2015-08-27",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/3e/12/b7cf872facce8c1cf90b08c12ee4/uc-berkeley-seal.gif",
         "g_alt": "uc berkeley",
@@ -1794,9 +1307,6 @@
     },
     {
         "a_num": "197",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2015/08/17/crisis-management-and-proper-usage/",
-        "c_title": "Crisis Management and Proper Usage",
-        "d_dateUK": "17 Aug 2015",
         "e_dateISO": "2015-08-17",
         "f_image": "https://www.nocloo.com/wp-content/uploads/2020/06/EB_White1.jpg",
         "g_alt": "e.b. white",
@@ -1805,9 +1315,6 @@
     },
     {
         "a_num": "196",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2015/08/12/etymology-is-not-destiny/",
-        "c_title": "Etymology Is Not Destiny",
-        "d_dateUK": "12 Aug 2015",
         "e_dateISO": "2015-08-12",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/83/4f/7917ce953d5e93f18b4264bace00/edward-heath-sized.jpg",
         "g_alt": "edward heath",
@@ -1816,9 +1323,6 @@
     },
     {
         "a_num": "195",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2015/08/02/unspeakeable-drug-names/",
-        "c_title": "Unspeakable Drug Names",
-        "d_dateUK": "2 Aug 2015",
         "e_dateISO": "2015-08-02",
         "f_image": "",
         "g_alt": "",
@@ -1827,9 +1331,6 @@
     },
     {
         "a_num": "194",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2015/07/27/what-language-learning-cannot-be/",
-        "c_title": "What Language Learning Cannot Be",
-        "d_dateUK": "27 Jul 2015",
         "e_dateISO": "2015-07-27",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/08/31/749e903394294d32e1a3a0a26e25/jevons.png",
         "g_alt": "william stanley jevons",
@@ -1838,9 +1339,6 @@
     },
     {
         "a_num": "193",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2015/07/21/the-fringe-is-coming-to-town/",
-        "c_title": "The Fringe Is Coming to Town",
-        "d_dateUK": "21 Jul 2015",
         "e_dateISO": "2015-07-21",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/83/72/d48cfee24e2ff4f277a559096aec/castle.png",
         "g_alt": "castle fireworks",
@@ -1849,9 +1347,6 @@
     },
     {
         "a_num": "192",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2015/07/16/what-one-means-to-a-linguist/",
-        "c_title": "What ‘One’ Means to a Linguist",
-        "d_dateUK": "16 Jul 2015",
         "e_dateISO": "2015-07-16",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/40/2e/1d1f8f339f047e840d0449a62128/1019312234-43860b93be-b.jpg",
         "g_alt": "rock band one",
@@ -1860,9 +1355,6 @@
     },
     {
         "a_num": "191",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2015/07/07/human-resources-and-thought-control/",
-        "c_title": "Human Resources and Thought Control",
-        "d_dateUK": "7 Jul 2015",
         "e_dateISO": "2015-07-07",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/73/55/8d7ee8a71d12258b6a4817ce3871/2-13953-george-orwell-small.jpg",
         "g_alt": "george orwell",
@@ -1871,9 +1363,6 @@
     },
     {
         "a_num": "190",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2015/07/01/babbler-birds-and-babbling-journalists/",
-        "c_title": "Babbler Birds and Babbling Journalists",
-        "d_dateUK": "1 Jul 2015",
         "e_dateISO": "2015-07-01",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/c4/e0/e24b6a1ac4cca4929c492443d5a9/chestnut-crowned-babbler-bowra-apr07.jpg",
         "g_alt": "babbler birds",
@@ -1882,9 +1371,6 @@
     },
     {
         "a_num": "189",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2015/06/21/revolutionary-methodological-preliminaries/",
-        "c_title": "Revolutionary Methodological Preliminaries",
-        "d_dateUK": "21 Jun 2015",
         "e_dateISO": "2015-06-21",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/2d/4c/9f4d76b9732cbbb901d45de925b7/chomsky.png",
         "g_alt": "chomsky books",
@@ -1893,9 +1379,6 @@
     },
     {
         "a_num": "188",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2015/06/16/36-words/",
-        "c_title": "36 Words",
-        "d_dateUK": "16 Jun 2015",
         "e_dateISO": "2015-06-16",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/e6/55/14c7fd707a3d4b024f5970f4f3c3/no-crying.png",
         "g_alt": "mixed gender lab",
@@ -1904,9 +1387,6 @@
     },
     {
         "a_num": "187",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2015/06/11/scrabbling-for-words/",
-        "c_title": "Scrabbling for Words",
-        "d_dateUK": "11 Jun 2015",
         "e_dateISO": "2015-06-11",
         "f_image": "",
         "g_alt": "",
@@ -1915,9 +1395,6 @@
     },
     {
         "a_num": "186",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2015/06/01/take-my-metadata/",
-        "c_title": "Take My Metadata",
-        "d_dateUK": "1 Jun 2015",
         "e_dateISO": "2015-06-01",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/1d/ca/97144fa884eb1f08fea3a92b6890/randpaul-2.jpg",
         "g_alt": "rand paul",
@@ -1926,9 +1403,6 @@
     },
     {
         "a_num": "185",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2015/05/27/an-honor-and-a-horror/",
-        "c_title": "An Honor and a Horror",
-        "d_dateUK": "27 May 2015",
         "e_dateISO": "2015-05-27",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/39/03/d45a7bea3b50a781c26141f98296/beckham.jpg",
         "g_alt": "beckham hawking",
@@ -1937,9 +1411,6 @@
     },
     {
         "a_num": "184",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2015/05/17/competence-performance-and-climate/",
-        "c_title": "Competence, Performance, and Climate",
-        "d_dateUK": "17 May 2015",
         "e_dateISO": "2015-05-17",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/87/2c/f7a3571a1b6755ec7d70d7b4772a/1280-the-weather-channel-forecast-by-new-ceo-david-kenny-a.jpg",
         "g_alt": "lightning",
@@ -1948,9 +1419,6 @@
     },
     {
         "a_num": "183",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2015/05/12/legal-and-illegal-commas/",
-        "c_title": "Legal and Illegal Commas",
-        "d_dateUK": "12 May 2015",
         "e_dateISO": "2015-05-12",
         "f_image": "",
         "g_alt": "",
@@ -1959,9 +1427,6 @@
     },
     {
         "a_num": "182",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2015/05/07/dumb-copy-editing-survives/",
-        "c_title": "Dumb Copy Editing Survives",
-        "d_dateUK": "7 May 2015",
         "e_dateISO": "2015-05-07",
         "f_image": "",
         "g_alt": "",
@@ -1970,9 +1435,6 @@
     },
     {
         "a_num": "181",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2015/04/27/diary-of-a-visiting-speaker/",
-        "c_title": "Diary of a Visiting Speaker",
-        "d_dateUK": "27 Apr 2015",
         "e_dateISO": "2015-04-27",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/4e/10/dab6069206664d116223036a4909/kielmap.png",
         "g_alt": "kiel map",
@@ -1981,9 +1443,6 @@
     },
     {
         "a_num": "180",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2015/04/22/truly-incompetent-english/",
-        "c_title": "Truly Incompetent English",
-        "d_dateUK": "22 Apr 2015",
         "e_dateISO": "2015-04-22",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/64/e3/78685fe382eecb8dadd4b7166fad/ukip.png",
         "g_alt": "ukip article",
@@ -1992,9 +1451,6 @@
     },
     {
         "a_num": "179",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2015/04/12/a-certain-closeness/",
-        "c_title": "A Certain Closeness",
-        "d_dateUK": "12 Apr 2015",
         "e_dateISO": "2015-04-12",
         "f_image": "",
         "g_alt": "",
@@ -2003,9 +1459,6 @@
     },
     {
         "a_num": "178",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2015/04/08/passive-verbosity-again/",
-        "c_title": "Passive Verbosity Again",
-        "d_dateUK": "8 Apr 2015",
         "e_dateISO": "2015-04-08",
         "f_image": "",
         "g_alt": "",
@@ -2014,9 +1467,6 @@
     },
     {
         "a_num": "177",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2015/03/30/an-insult-f/",
-        "c_title": "An Insult from Professor Faxman",
-        "d_dateUK": "30 Mar 2015",
         "e_dateISO": "2015-03-30",
         "f_image": "",
         "g_alt": "",
@@ -2025,9 +1475,6 @@
     },
     {
         "a_num": "176",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2015/03/26/on-writing-well-about-passives/",
-        "c_title": "On Writing Well About Passives",
-        "d_dateUK": "26 Mar 2015",
         "e_dateISO": "2015-03-26",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/c9/37/c77e632fd42cde43eeeb185a3b45/passives.png",
         "g_alt": "passive voice",
@@ -2036,9 +1483,6 @@
     },
     {
         "a_num": "175",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2015/03/17/swinging-for-his-supper/",
-        "c_title": "Swinging for His Supper",
-        "d_dateUK": "17 Mar 2015",
         "e_dateISO": "2015-03-17",
         "f_image": "",
         "g_alt": "",
@@ -2047,9 +1491,6 @@
     },
     {
         "a_num": "174",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2015/03/08/lain-the-whom-of-the-verb-world/",
-        "c_title": "Lain, the Whom of the Verb World",
-        "d_dateUK": "8 Mar 2015",
         "e_dateISO": "2015-03-08",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/5b/60/896252295211a995019c87a64eb2/lain-shot.png",
         "g_alt": "lain skeletons",
@@ -2058,9 +1499,6 @@
     },
     {
         "a_num": "173",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2015/03/04/the-international-phonetic-alphabet/",
-        "c_title": "The International Phonetic Alphabet",
-        "d_dateUK": "4 Mar 2015",
         "e_dateISO": "2015-03-04",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/ff/17/edbcd2a651618206a89fdc9d4bbf/phonsymb.png",
         "g_alt": "phonetic alphabet",
@@ -2069,9 +1507,6 @@
     },
     {
         "a_num": "172",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2015/02/23/having-a-problem-with-having-a-problem-with/",
-        "c_title": "Having a Problem With ‘Having a Problem With’",
-        "d_dateUK": "23 Feb 2015",
         "e_dateISO": "2015-02-23",
         "f_image": "",
         "g_alt": "",
@@ -2080,9 +1515,6 @@
     },
     {
         "a_num": "171",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2015/02/19/free-speech-the-rough-and-the-smooth/",
-        "c_title": "Free Speech, the Rough and the Smooth",
-        "d_dateUK": "19 Feb 2015",
         "e_dateISO": "2015-02-19",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/d1/e6/2e400478dfcc61c6d4240fb788b1/building-in-burqa.png",
         "g_alt": "burqa building",
@@ -2091,9 +1523,6 @@
     },
     {
         "a_num": "170",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2015/02/10/comprise-yourself/",
-        "c_title": "Comprise Yourself",
-        "d_dateUK": "10 Feb 2015",
         "e_dateISO": "2015-02-10",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/16/19/592fa82a54adbd4a9f2a88017872/wikipedia-globe-sans-text.png",
         "g_alt": "wikipedia globe",
@@ -2102,9 +1531,6 @@
     },
     {
         "a_num": "169",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2015/02/01/ongoing-plethora-not-what-it-appears/",
-        "c_title": "‘Ongoing Plethora’? Not What It Appears",
-        "d_dateUK": "1 Feb 2015",
         "e_dateISO": "2015-02-01",
         "f_image": "",
         "g_alt": "",
@@ -2113,9 +1539,6 @@
     },
     {
         "a_num": "168",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2015/01/28/garage-sociolinguistics/",
-        "c_title": "Garage Sociolinguistics",
-        "d_dateUK": "28 Jan 2015",
         "e_dateISO": "2015-01-28",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/e5/de/fc2aa35dae1b8648be8b6373d6dd/my-garage-3.jpg",
         "g_alt": "garage",
@@ -2124,9 +1547,6 @@
     },
     {
         "a_num": "167",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2015/01/19/the-rules-for-essay-exams/",
-        "c_title": "The Rules for Essay Exams",
-        "d_dateUK": "19 Jan 2015",
         "e_dateISO": "2015-01-19",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/67/25/5b54efb486a85c9f644d1fe5c801/bluebks.jpg",
         "g_alt": "exam papers",
@@ -2135,9 +1555,6 @@
     },
     {
         "a_num": "166",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2015/01/15/he-or-possibly-him-as-head/",
-        "c_title": "He (or Possibly Him?) as Head",
-        "d_dateUK": "15 Jan 2015",
         "e_dateISO": "2015-01-15",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/1a/fd/67352803208b2afe6707f828f34e/4622063623-c3a61fda47-o.jpg",
         "g_alt": "prince charles",
@@ -2146,9 +1563,6 @@
     },
     {
         "a_num": "165",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2015/01/06/renee-zellweger-as-a-verb-i-dont-think-so/",
-        "c_title": "Renée Zellweger as a Verb? I Don’t Think So",
-        "d_dateUK": "6 Jan 2015",
         "e_dateISO": "2015-01-06",
         "f_image": "",
         "g_alt": "",
@@ -2157,9 +1571,6 @@
     },
     {
         "a_num": "164",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2014/12/14/george-curme-orthographic-radical/",
-        "c_title": "George Curme, Orthographic Radical",
-        "d_dateUK": "14 Dec 2014",
         "e_dateISO": "2014-12-14",
         "f_image": "",
         "g_alt": "",
@@ -2168,9 +1579,6 @@
     },
     {
         "a_num": "163",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2014/12/10/george-curme-21st-century-grammarian/",
-        "c_title": "George Curme, 21st-Century Grammarian",
-        "d_dateUK": "10 Dec 2014",
         "e_dateISO": "2014-12-10",
         "f_image": "",
         "g_alt": "",
@@ -2179,9 +1587,6 @@
     },
     {
         "a_num": "162",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2014/12/01/a-postcard-from-vienna/",
-        "c_title": "A Postcard from Vienna",
-        "d_dateUK": "1 Dec 2014",
         "e_dateISO": "2014-12-01",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/54/fa/2d86a900824a6beb33d0ee4832b8/uniwien.png",
         "g_alt": "uni wien",
@@ -2190,9 +1595,6 @@
     },
     {
         "a_num": "161",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2014/11/18/disputing-linguistic-myths/",
-        "c_title": "Disputing Linguistic Myths",
-        "d_dateUK": "18 Nov 2014",
         "e_dateISO": "2014-11-18",
         "f_image": "",
         "g_alt": "",
@@ -2201,9 +1603,6 @@
     },
     {
         "a_num": "160",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2014/11/09/the-decline-of-grammar-education/",
-        "c_title": "The Decline of Grammar Education",
-        "d_dateUK": "9 Nov 2014",
         "e_dateISO": "2014-11-09",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/5d/83/4d627746db4f65362eccd1179cba/exam-f-grade-480x250-1024.jpg",
         "g_alt": "exam f",
@@ -2212,9 +1611,6 @@
     },
     {
         "a_num": "159",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2014/11/06/writing-instructors-your-pain-is-felt/",
-        "c_title": "Writing Instructors: Your Pain Is Felt",
-        "d_dateUK": "6 Nov 2014",
         "e_dateISO": "2014-11-06",
         "f_image": "https://i5.walmartimages.com/asr/de528160-9579-4214-bbf5-f7fb9e26c763_1.f2cadce70d3a3d27631766ace863884f.jpeg",
         "g_alt": "anthony trollope",
@@ -2223,9 +1619,6 @@
     },
     {
         "a_num": "158",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2014/10/27/professor-pinker-and-professor-strunk/",
-        "c_title": "Professor Pinker and Professor Strunk",
-        "d_dateUK": "27 Oct 2014",
         "e_dateISO": "2014-10-27",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/f9/60/47ade1e2d475432194264aef4333/images.jpg",
         "g_alt": "strunk and white",
@@ -2234,9 +1627,6 @@
     },
     {
         "a_num": "157",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2014/10/23/talking-about-word-aversion-on-tv/",
-        "c_title": "Talking About Word Aversion on TV",
-        "d_dateUK": "23 Oct 2014",
         "e_dateISO": "2014-10-23",
         "f_image": "",
         "g_alt": "",
@@ -2245,9 +1635,6 @@
     },
     {
         "a_num": "156",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2014/10/14/if-not-me-then-who/",
-        "c_title": "If Not Me Then Who?",
-        "d_dateUK": "14 Oct 2014",
         "e_dateISO": "2014-10-14",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/5f/82/540589d1a38c6ef85f6c492cf8b5/dogwithtoy1.png",
         "g_alt": "dog with toy",
@@ -2256,9 +1643,6 @@
     },
     {
         "a_num": "155",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2014/10/05/dumb-writing-advice-yielding-to-nitwits/",
-        "c_title": "Dumb Writing Advice, Part 2: Yielding to Nitwits",
-        "d_dateUK": "5 Oct 2014",
         "e_dateISO": "2014-10-05",
         "f_image": "",
         "g_alt": "",
@@ -2267,9 +1651,6 @@
     },
     {
         "a_num": "154",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2014/10/01/dumb-writing-advice/",
-        "c_title": "Dumb Writing Advice, Part 1: Word Prohibitions",
-        "d_dateUK": "1 Oct 2014",
         "e_dateISO": "2014-10-01",
         "f_image": "",
         "g_alt": "",
@@ -2278,9 +1659,6 @@
     },
     {
         "a_num": "153",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2014/09/22/six-likes-liked-and-disliked/",
-        "c_title": "6 Likes, Liked and Disliked",
-        "d_dateUK": "22 Sep 2014",
         "e_dateISO": "2014-09-22",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/be/95/959a82047e76e0f23f7f7f4ba159/index.jpeg",
         "g_alt": "facebook like",
@@ -2289,9 +1667,6 @@
     },
     {
         "a_num": "152",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2014/09/18/being-a-subject/",
-        "c_title": "Being a Subject",
-        "d_dateUK": "18 Sep 2014",
         "e_dateISO": "2014-09-18",
         "f_image": "",
         "g_alt": "",
@@ -2300,9 +1675,6 @@
     },
     {
         "a_num": "151",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2014/09/09/better-together-for-whom/",
-        "c_title": "Better Together for Whom?",
-        "d_dateUK": "9 Sep 2014",
         "e_dateISO": "2014-09-09",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/cf/cc/92b7c2776c44ecc145cbb85db669/yes-no2.jpg",
         "g_alt": "scotland yes no",
@@ -2311,9 +1683,6 @@
     },
     {
         "a_num": "150",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2014/09/04/the-case-of-the-sinister-buttocks/",
-        "c_title": "The Case of the Sinister Buttocks",
-        "d_dateUK": "4 Sep 2014",
         "e_dateISO": "2014-09-04",
         "f_image": "",
         "g_alt": "",
@@ -2322,9 +1691,6 @@
     },
     {
         "a_num": "149",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2014/08/27/why-well-formed-nonsense-doesnt-matter/",
-        "c_title": "Why Well-Formed Nonsense Doesn’t Matter",
-        "d_dateUK": "27 Aug 2014",
         "e_dateISO": "2014-08-27",
         "f_image": "",
         "g_alt": "",
@@ -2333,9 +1699,6 @@
     },
     {
         "a_num": "148",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2014/08/17/computer-says-b-plus/",
-        "c_title": "Computer Says B-Plus",
-        "d_dateUK": "17 Aug 2014",
         "e_dateISO": "2014-08-17",
         "f_image": "",
         "g_alt": "",
@@ -2344,9 +1707,6 @@
     },
     {
         "a_num": "147",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2014/08/13/grammatical-icing-on-the-political-cake/",
-        "c_title": "Grammatical Icing on the Political Cake",
-        "d_dateUK": "13 Aug 2014",
         "e_dateISO": "2014-08-13",
         "f_image": "",
         "g_alt": "",
@@ -2355,9 +1715,6 @@
     },
     {
         "a_num": "146",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2014/08/04/speaking-out-against-hate-speech-or-not/",
-        "c_title": "Speaking Out Against Hate Speech (Or Not)",
-        "d_dateUK": "4 Aug 2014",
         "e_dateISO": "2014-08-04",
         "f_image": "",
         "g_alt": "",
@@ -2366,9 +1723,6 @@
     },
     {
         "a_num": "145",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2014/07/31/verb-agreement-and-hurdling/",
-        "c_title": "Verb Agreement and Hurdling",
-        "d_dateUK": "31 Jul 2014",
         "e_dateISO": "2014-07-31",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/b7/48/22df2b92bb3e7c6b3de026827a1d/237991-120806-sally-pearson.jpg",
         "g_alt": "sally pearson",
@@ -2377,9 +1731,6 @@
     },
     {
         "a_num": "144",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2014/07/22/valid-pronoun-ambiguity-warnings/",
-        "c_title": "Valid Pronoun-Ambiguity Warnings",
-        "d_dateUK": "22 Jul 2014",
         "e_dateISO": "2014-07-22",
         "f_image": "",
         "g_alt": "",
@@ -2388,9 +1739,6 @@
     },
     {
         "a_num": "143",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2014/07/16/the-etiology-of-turgid-drivel/",
-        "c_title": "The Etiology of Turgid Drivel",
-        "d_dateUK": "16 Jul 2014",
         "e_dateISO": "2014-07-16",
         "f_image": "",
         "g_alt": "",
@@ -2399,9 +1747,6 @@
     },
     {
         "a_num": "142",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2014/07/07/mandarin-myths/",
-        "c_title": "Mandarin Myths",
-        "d_dateUK": "7 Jul 2014",
         "e_dateISO": "2014-07-07",
         "f_image": "",
         "g_alt": "",
@@ -2410,9 +1755,6 @@
     },
     {
         "a_num": "141",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2014/06/26/the-true-secret-of-office-packing/",
-        "c_title": "The True Secret of Office Packing",
-        "d_dateUK": "26 Jun 2014",
         "e_dateISO": "2014-06-26",
         "f_image": "",
         "g_alt": "",
@@ -2421,9 +1763,6 @@
     },
     {
         "a_num": "140",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2014/06/17/grammatical-shades-of-grey/",
-        "c_title": "Grammatical Shades of Grey",
-        "d_dateUK": "17 Jun 2014",
         "e_dateISO": "2014-06-17",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/0b/3a/9fce8a93775ff4b8e8e196cfbe05/shutterstock-138339137.jpg",
         "g_alt": "handcuffs",
@@ -2432,9 +1771,6 @@
     },
     {
         "a_num": "139",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2014/06/08/mere-wrds/",
-        "c_title": "Mere W*rds",
-        "d_dateUK": "8 Jun 2014",
         "e_dateISO": "2014-06-08",
         "f_image": "",
         "g_alt": "",
@@ -2443,9 +1779,6 @@
     },
     {
         "a_num": "138",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2014/06/04/new-book-same-old-grammar-babble/",
-        "c_title": "New Book, Same Old Grammar-Babble",
-        "d_dateUK": "4 Jun 2014",
         "e_dateISO": "2014-06-04",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/6e/5a/d0fc2cc4a319af61925f03c9507c/dsc-5529-21.jpg",
         "g_alt": "parts of speech",
@@ -2454,9 +1787,6 @@
     },
     {
         "a_num": "137",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2014/05/26/the-vague-main-clause-of-the-second-amendment/",
-        "c_title": "The Vague Main Clause of the Second Amendment",
-        "d_dateUK": "26 May 2014",
         "e_dateISO": "2014-05-26",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/e6/6e/cc9b9ebf8afc7d470166e804ae84/secondamendment.png",
         "g_alt": "second amendment",
@@ -2465,9 +1795,6 @@
     },
     {
         "a_num": "136",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2014/05/18/the-politics-of-taboo-words/",
-        "c_title": "The Politics of Taboo Words",
-        "d_dateUK": "18 May 2014",
         "e_dateISO": "2014-05-18",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/86/99/60e30f62a1bc397a97f9a78b5b35/sun.gif",
         "g_alt": "sin comic",
@@ -2476,9 +1803,6 @@
     },
     {
         "a_num": "135",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2014/05/12/bait-and-switch-comparisons/",
-        "c_title": "Bait-and-Switch Comparisons",
-        "d_dateUK": "12 May 2014",
         "e_dateISO": "2014-05-12",
         "f_image": "",
         "g_alt": "",
@@ -2487,9 +1811,6 @@
     },
     {
         "a_num": "134",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2014/05/08/caricaturing-descriptive-grammarians/",
-        "c_title": "Caricaturing Descriptive Grammarians",
-        "d_dateUK": "8 May 2014",
         "e_dateISO": "2014-05-08",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/b0/83/c73bfb7d52eb3a3dba2c35898247/presc2.jpg",
         "g_alt": "comic grammar",
@@ -2498,9 +1819,6 @@
     },
     {
         "a_num": "133",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2014/04/29/there-was-no-committee/",
-        "c_title": "There Was No Committee",
-        "d_dateUK": "29 Apr 2014",
         "e_dateISO": "2014-04-29",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/94/16/6558314096565bd0f14ea5b22ce2/britishempiremap.gif",
         "g_alt": "map british empire",
@@ -2509,9 +1827,6 @@
     },
     {
         "a_num": "132",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2014/04/20/and-the-other-is-a-jellyfish/",
-        "c_title": "And the Other Is a Jellyfish",
-        "d_dateUK": "20 Apr 2014",
         "e_dateISO": "2014-04-20",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/a4/eb/bcbaaa5bd4fc1bd4eb2f001f4095/800px-jellyfish-1.jpg",
         "g_alt": "jellyfish",
@@ -2520,9 +1835,6 @@
     },
     {
         "a_num": "131",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2014/04/16/a-postcard-from-salzburg/",
-        "c_title": "A Postcard from Salzburg",
-        "d_dateUK": "16 Apr 2014",
         "e_dateISO": "2014-04-16",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/73/47/59d964f2eb2ca6b6baf3752e3ecc/thugs.jpg",
         "g_alt": "thugs",
@@ -2531,9 +1843,6 @@
     },
     {
         "a_num": "130",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2014/04/07/no-language-for-lottie/",
-        "c_title": "No Language for Lottie",
-        "d_dateUK": "7 Apr 2014",
         "e_dateISO": "2014-04-07",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/f9/b1/8246a552bc7d6033fbdd59d0dc55/lottieeating.jpg",
         "g_alt": "lottie eating",
@@ -2542,9 +1851,6 @@
     },
     {
         "a_num": "129",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2014/04/03/dolphin-talk-and-human-credulity/",
-        "c_title": "Dolphin Talk and Human Credulity",
-        "d_dateUK": "3 Apr 2014",
         "e_dateISO": "2014-04-03",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/d4/e1/cd96655207e62834a3896f1d9ece/800px-bottlenose-dolphin-ksc04pd0178.jpg",
         "g_alt": "bottlenose dolphin",
@@ -2553,9 +1859,6 @@
     },
     {
         "a_num": "128",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2014/03/25/communicating-with-the-public/",
-        "c_title": "Communicating with the Public",
-        "d_dateUK": "25 Mar 2014",
         "e_dateISO": "2014-03-25",
         "f_image": "",
         "g_alt": "",
@@ -2564,9 +1867,6 @@
     },
     {
         "a_num": "127",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2014/03/16/undivided-by-a-common-language/",
-        "c_title": "Undivided by a Common Language",
-        "d_dateUK": "16 Mar 2014",
         "e_dateISO": "2014-03-16",
         "f_image": "",
         "g_alt": "",
@@ -2575,9 +1875,6 @@
     },
     {
         "a_num": "126",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2014/03/12/brevity-and-attractiveness/",
-        "c_title": "Brevity and Attractiveness: Misreporting Linguistic Science",
-        "d_dateUK": "12 Mar 2014",
         "e_dateISO": "2014-03-12",
         "f_image": "",
         "g_alt": "",
@@ -2586,9 +1883,6 @@
     },
     {
         "a_num": "125",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2014/03/03/linguistics-qua-affliction/",
-        "c_title": "Linguistics qua Affliction",
-        "d_dateUK": "3 Mar 2014",
         "e_dateISO": "2014-03-03",
         "f_image": "",
         "g_alt": "",
@@ -2597,9 +1891,6 @@
     },
     {
         "a_num": "124",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2014/02/24/real-time-automated-essay-writing/",
-        "c_title": "Real-Time Automated Essay Writing?",
-        "d_dateUK": "24 Feb 2014",
         "e_dateISO": "2014-02-24",
         "f_image": "",
         "g_alt": "",
@@ -2608,9 +1899,6 @@
     },
     {
         "a_num": "123",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2014/02/18/coming-and-going-2/",
-        "c_title": "Coming and Going",
-        "d_dateUK": "18 Feb 2014",
         "e_dateISO": "2014-02-18",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/76/34/fcccc5279ee0d3942bdee74d03c4/4026929574-e0868424aa-m.jpg",
         "g_alt": "beach boys",
@@ -2619,9 +1907,6 @@
     },
     {
         "a_num": "122",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2014/02/09/politeness-in-refereeing-favor-requests/",
-        "c_title": "Politeness in Refereeing Favor Requests",
-        "d_dateUK": "9 Feb 2014",
         "e_dateISO": "2014-02-09",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/07/c8/7c905c2c5d42ea1389d3b3ce911e/640px-dog-walker-buenos-aires.jpg",
         "g_alt": "dog walker",
@@ -2630,9 +1915,6 @@
     },
     {
         "a_num": "121",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2014/02/05/spot-the-captain/",
-        "c_title": "Spot the Captain",
-        "d_dateUK": "5 Feb 2014",
         "e_dateISO": "2014-02-05",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/10/e3/87824346b5a0361083cf1ebaaec6/105px-nemanja-vidic.png",
         "g_alt": "nemanja vidic",
@@ -2641,9 +1923,6 @@
     },
     {
         "a_num": "120",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2014/01/27/not-cricket/",
-        "c_title": "Not Cricket",
-        "d_dateUK": "27 Jan 2014",
         "e_dateISO": "2014-01-27",
         "f_image": "https://www.marinatimes.com/wp-content/uploads/2012/10/FINANCE-Silverman-Oct2012-cricket-game-wallpapers-com.jpg",
         "g_alt": "not cricket",
@@ -2652,9 +1931,6 @@
     },
     {
         "a_num": "119",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2014/01/23/concern-trolls-passives-and-vultures/",
-        "c_title": "‘Concern Trolls,’ Passives, and Vultures",
-        "d_dateUK": "23 Jan 2014",
         "e_dateISO": "2014-01-23",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/a7/43/eb43d6d8f4ac6712ba323f714a67/concerned-trollcat.jpg",
         "g_alt": "troll cat",
@@ -2663,9 +1939,6 @@
     },
     {
         "a_num": "118",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2014/01/14/moths-to-the-flame-of-meaning/",
-        "c_title": "Moths to the Flame of Meaning",
-        "d_dateUK": "14 Jan 2014",
         "e_dateISO": "2014-01-14",
         "f_image": "",
         "g_alt": "",
@@ -2674,9 +1947,6 @@
     },
     {
         "a_num": "117",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2014/01/08/summarize-your-thesis/",
-        "c_title": "Summarize Your Thesis (One Line)",
-        "d_dateUK": "8 Jan 2014",
         "e_dateISO": "2014-01-08",
         "f_image": "",
         "g_alt": "",
@@ -2685,9 +1955,6 @@
     },
     {
         "a_num": "116",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2013/12/18/lord-quirk-drops-the-ball/",
-        "c_title": "Lord Quirk Drops the Ball",
-        "d_dateUK": "18 Dec 2013",
         "e_dateISO": "2013-12-18",
         "f_image": "",
         "g_alt": "",
@@ -2696,9 +1963,6 @@
     },
     {
         "a_num": "115",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2013/12/09/banning-students-native-dialects/",
-        "c_title": "Banning Students’ Native Dialects",
-        "d_dateUK": "9 Dec 2013",
         "e_dateISO": "2013-12-09",
         "f_image": "",
         "g_alt": "",
@@ -2707,9 +1971,6 @@
     },
     {
         "a_num": "114",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2013/12/05/google-reads-your-emails/",
-        "c_title": "Google Reads Your Emails?",
-        "d_dateUK": "5 Dec 2013",
         "e_dateISO": "2013-12-05",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/21/48/3b616f0d64eb291b764b8687acfd/geoffsgooglepost.png",
         "g_alt": "google search",
@@ -2718,9 +1979,6 @@
     },
     {
         "a_num": "113",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2013/11/26/not-whether-but-when/",
-        "c_title": "Not Whether, but When",
-        "d_dateUK": "26 Nov 2013",
         "e_dateISO": "2013-11-26",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/cd/83/900ac99d36a35d2f000a70475fea/scylla477px-1.jpg",
         "g_alt": "man shield",
@@ -2729,9 +1987,6 @@
     },
     {
         "a_num": "112",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2013/11/17/when-we-do-not-agree/",
-        "c_title": "When We Do Not Agree",
-        "d_dateUK": "17 Nov 2013",
         "e_dateISO": "2013-11-17",
         "f_image": "",
         "g_alt": "",
@@ -2740,9 +1995,6 @@
     },
     {
         "a_num": "111",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2013/11/13/lying-about-writing/",
-        "c_title": "Lying About Writing",
-        "d_dateUK": "13 Nov 2013",
         "e_dateISO": "2013-11-13",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/d9/51/b52562f777c5fec18d120772d846/202750507-448f2d6ca01-2.jpg",
         "g_alt": "writing cushion",
@@ -2751,9 +2003,6 @@
     },
     {
         "a_num": "110",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2013/11/04/was-it-really-oscar/",
-        "c_title": "Was It Really Oscar?",
-        "d_dateUK": "4 Nov 2013",
         "e_dateISO": "2013-11-04",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/92/83/7f9d32db60c2c974b2ba081af337/wasp-cartoon-on-oscar-wilde1.jpg",
         "g_alt": "oscar wilde cartoon",
@@ -2762,9 +2011,6 @@
     },
     {
         "a_num": "109",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2013/10/31/linguistic-fuel-for-a-political-brushfire/",
-        "c_title": "Linguistic Fuel for a Political Brushfire",
-        "d_dateUK": "31 Oct 2013",
         "e_dateISO": "2013-10-31",
         "f_image": "http:3A//chronicle-brightspot.s3.amazonaws.com/d0/04/28b78ae1be63e480830c258ccc16/cameron-jumper.png",
         "g_alt": "cameron jumper",
@@ -2773,9 +2019,6 @@
     },
     {
         "a_num": "108",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2013/10/21/be-fair-oscar/",
-        "c_title": "Be Fair, Oscar",
-        "d_dateUK": "21 Oct 2013",
         "e_dateISO": "2013-10-21",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/21/a4/0943444d366f17d88ff00661c679/wilde.png",
         "g_alt": "oscar wilde",
@@ -2784,9 +2027,6 @@
     },
     {
         "a_num": "107",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2013/10/17/the-higgs/",
-        "c_title": "The Higgs: Names Becoming Common Nouns",
-        "d_dateUK": "17 Oct 2013",
         "e_dateISO": "2013-10-17",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/e7/ed/053fc5f7b26e52cde6e018e90c29/professor-peter-higgs-008.jpg",
         "g_alt": "peter higgs",
@@ -2795,9 +2035,6 @@
     },
     {
         "a_num": "106",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2013/10/08/the-guardian-opposes-zombie-rules/",
-        "c_title": "‘The Guardian’ Opposes Zombie Rules",
-        "d_dateUK": "8 Oct 2013",
         "e_dateISO": "2013-10-08",
         "f_image": "",
         "g_alt": "",
@@ -2806,9 +2043,6 @@
     },
     {
         "a_num": "105",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2013/09/29/is-the-cognitive-revolution-here-yet/",
-        "c_title": "Is the Cognitive Revolution Here Yet?",
-        "d_dateUK": "29 Sep 2013",
         "e_dateISO": "2013-09-29",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/6a/6d/4ee26d6c4b54ec51604ca2f31282/noam-chomsky2.jpg",
         "g_alt": "noam chomsky",
@@ -2817,9 +2051,6 @@
     },
     {
         "a_num": "104",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2013/09/25/can-goofy-headlines-cost-you-money/",
-        "c_title": "Can Goofy Headlines Cost You Money?",
-        "d_dateUK": "25 Sep 2013",
         "e_dateISO": "2013-09-25",
         "f_image": "",
         "g_alt": "",
@@ -2828,9 +2059,6 @@
     },
     {
         "a_num": "103",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2013/09/16/keep-your-multilingualism-to-yourself/",
-        "c_title": "Keep Your Multilingualism to Yourself",
-        "d_dateUK": "16 Sep 2013",
         "e_dateISO": "2013-09-16",
         "f_image": "",
         "g_alt": "",
@@ -2839,9 +2067,6 @@
     },
     {
         "a_num": "102",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2013/09/12/gentler-cuddlier-grammarians/",
-        "c_title": "Gentler, Cuddlier Grammarians",
-        "d_dateUK": "12 Sep 2013",
         "e_dateISO": "2013-09-12",
         "f_image": "",
         "g_alt": "",
@@ -2850,9 +2075,6 @@
     },
     {
         "a_num": "101",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2013/09/03/dick-swiveller/",
-        "c_title": "Who’d Want to Be a Dick Swiveller?",
-        "d_dateUK": "3 Sep 2013",
         "e_dateISO": "2013-09-03",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/0e/6a/2f2ea32a871dab9cabc46cbbac9b/dick-swiveller.png",
         "g_alt": "dick swiveller",
@@ -2861,9 +2083,6 @@
     },
     {
         "a_num": "100",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2013/08/25/from-netherlandic-german-to-multilingual-sardinia/",
-        "c_title": "From Netherlandic-German to Multilingual Sardinia",
-        "d_dateUK": "25 Aug 2013",
         "e_dateISO": "2013-08-25",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/58/4f/18ae9428e0d03b41f233b70a59da/400px-languages-spoken-in-italy-bis-svg.png",
         "g_alt": "italy languages",
@@ -2872,9 +2091,6 @@
     },
     {
         "a_num": "99",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2013/08/21/counting-the-languages-of-the-world/",
-        "c_title": "Counting the Languages of the World",
-        "d_dateUK": "21 Aug 2013",
         "e_dateISO": "2013-08-21",
         "f_image": "",
         "g_alt": "",
@@ -2883,9 +2099,6 @@
     },
     {
         "a_num": "98",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2013/08/12/being-wrong-to-be-right/",
-        "c_title": "Being Wrong to Be Right",
-        "d_dateUK": "12 Aug 2013",
         "e_dateISO": "2013-08-12",
         "f_image": "",
         "g_alt": "",
@@ -2894,9 +2107,6 @@
     },
     {
         "a_num": "97",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2013/08/08/hungarian-i-am-not/",
-        "c_title": "Hungarian I Am Not",
-        "d_dateUK": "8 Aug 2013",
         "e_dateISO": "2013-08-08",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/f9/2b/f5287716d400eb64baa674277ebf/yoda.png",
         "g_alt": "yoda",
@@ -2905,9 +2115,6 @@
     },
     {
         "a_num": "96",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2013/07/30/is-strunk-bunk-a-game-changing-new-development/",
-        "c_title": "Is Strunk Bunk? a Game-Changing New Development",
-        "d_dateUK": "30 Jul 2013",
         "e_dateISO": "2013-07-30",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/b6/f2/b044ed7c686cd02d5248f675ad85/ee203fbab8b806ac9ca7c0db834ab9d9.jpg",
         "g_alt": "wrestlers",
@@ -2916,9 +2123,6 @@
     },
     {
         "a_num": "95",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2013/07/21/the-great-fitzgerald/",
-        "c_title": "The Great Fitzgerald",
-        "d_dateUK": "21 Jul 2013",
         "e_dateISO": "2013-07-21",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/fe/9d/2151ff833b616c8e2927bafb3249/greenlight.png",
         "g_alt": "green light",
@@ -2927,9 +2131,6 @@
     },
     {
         "a_num": "94",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2013/07/17/blowing-in-the-political-wind/",
-        "c_title": "Blowing in the Political Wind",
-        "d_dateUK": "17 Jul 2013",
         "e_dateISO": "2013-07-17",
         "f_image": "",
         "g_alt": "",
@@ -2938,9 +2139,6 @@
     },
     {
         "a_num": "93",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2013/07/08/extractor-fans-big-brother-and-the-passive/",
-        "c_title": "Extractor Fans, Big Brother, and the Passive",
-        "d_dateUK": "8 Jul 2013",
         "e_dateISO": "2013-07-08",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/aa/16/34579b59c3cd38bba6ad603da789/6555480303-ebf5e62370.jpg",
         "g_alt": "wine candle",
@@ -2949,9 +2147,6 @@
     },
     {
         "a_num": "92",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2013/06/25/a-postcard-from-galicia/",
-        "c_title": "A Postcard from Galicia",
-        "d_dateUK": "25 Jun 2013",
         "e_dateISO": "2013-06-25",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/55/6d/b355531c23f00a80e4e30b32eb8a/transito.png",
         "g_alt": "transito",
@@ -2960,9 +2155,6 @@
     },
     {
         "a_num": "91",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2013/06/16/changing-the-subject/",
-        "c_title": "You’re Wrong and I’m Changing the Subject",
-        "d_dateUK": "16 Jun 2013",
         "e_dateISO": "2013-06-16",
         "f_image": "",
         "g_alt": "",
@@ -2971,9 +2163,6 @@
     },
     {
         "a_num": "90",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2013/06/12/a-trinity-of-languages/",
-        "c_title": "A Trinity of Languages",
-        "d_dateUK": "12 Jun 2013",
         "e_dateISO": "2013-06-12",
         "f_image": "",
         "g_alt": "",
@@ -2982,9 +2171,6 @@
     },
     {
         "a_num": "89",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2013/06/03/getting-in-and-out-and-looked-at/",
-        "c_title": "Getting In and Out (and Looked At)",
-        "d_dateUK": "3 Jun 2013",
         "e_dateISO": "2013-06-03",
         "f_image": "",
         "g_alt": "",
@@ -2993,9 +2179,6 @@
     },
     {
         "a_num": "88",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2013/05/30/machine-translation/",
-        "c_title": "Machine Translation Without the Translation",
-        "d_dateUK": "30 May 2013",
         "e_dateISO": "2013-05-30",
         "f_image": "",
         "g_alt": "",
@@ -3004,9 +2187,6 @@
     },
     {
         "a_num": "87",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2013/05/22/speech-recognition-vs-language-processing/",
-        "c_title": "Speech Recognition vs. Language Processing",
-        "d_dateUK": "22 May 2013",
         "e_dateISO": "2013-05-22",
         "f_image": "",
         "g_alt": "",
@@ -3015,9 +2195,6 @@
     },
     {
         "a_num": "86",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2013/05/12/keyword-search-plus-a-little-magic/",
-        "c_title": "Keyword Search, Plus a Little Magic",
-        "d_dateUK": "12 May 2013",
         "e_dateISO": "2013-05-12",
         "f_image": "http://www.blindfiveyearold.com/wp-content/uploads/2008/12/google-phrase-match-and-exact-match.png",
         "g_alt": "google",
@@ -3026,9 +2203,6 @@
     },
     {
         "a_num": "85",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2013/05/08/natural-language-processing/",
-        "c_title": "Why Are We Still Waiting for Natural Language Processing?",
-        "d_dateUK": "8 May 2013",
         "e_dateISO": "2013-05-08",
         "f_image": "",
         "g_alt": "",
@@ -3037,9 +2211,6 @@
     },
     {
         "a_num": "84",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2013/04/29/being-a-coordinator/",
-        "c_title": "Being a Conjunction (slash Coordinator)",
-        "d_dateUK": "29 Apr 2013",
         "e_dateISO": "2013-04-29",
         "f_image": "https://creativeartsconsulting.files.wordpress.com/2012/04/slash-alt.jpg",
         "g_alt": "/{slash}",
@@ -3048,9 +2219,6 @@
     },
     {
         "a_num": "83",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2013/04/25/we-do-not-seek-to-rule/",
-        "c_title": "We Do Not Seek to Rule",
-        "d_dateUK": "25 Apr 2013",
         "e_dateISO": "2013-04-25",
         "f_image": "",
         "g_alt": "",
@@ -3059,9 +2227,6 @@
     },
     {
         "a_num": "82",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2013/04/16/king-jong-un/",
-        "c_title": "King Jong-un",
-        "d_dateUK": "16 Apr 2013",
         "e_dateISO": "2013-04-16",
         "f_image": "",
         "g_alt": "",
@@ -3070,9 +2235,6 @@
     },
     {
         "a_num": "81",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2013/04/07/orwell-and-the-not-unblack-dog/",
-        "c_title": "Orwell and the Not Unblack Dog",
-        "d_dateUK": "7 Apr 2013",
         "e_dateISO": "2013-04-07",
         "f_image": "https://chronicle-brightspot.s3.amazonaws.com/e8/3d/29bc4663ae449208a1d74a593b92/images.jpg",
         "g_alt": "running dog",
@@ -3081,9 +2243,6 @@
     },
     {
         "a_num": "80",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2013/04/03/elimination-of-the-fittest/",
-        "c_title": "Elimination of the Fittest",
-        "d_dateUK": "3 Apr 2013",
         "e_dateISO": "2013-04-03",
         "f_image": "https://chronicle-brightspot.s3.amazonaws.com/66/9b/9f5c9e0b1ea11318180a733c9b8a/blogtagcloud.jpg",
         "g_alt": "words art",
@@ -3092,9 +2251,6 @@
     },
     {
         "a_num": "79",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2013/03/25/fair-comment-and-privileged-occasions/",
-        "c_title": "Fair Comment and Privileged Occasions",
-        "d_dateUK": "25 Mar 2013",
         "e_dateISO": "2013-03-25",
         "f_image": "",
         "g_alt": "",
@@ -3103,9 +2259,6 @@
     },
     {
         "a_num": "78",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2013/03/21/being-an-apostrophe/",
-        "c_title": "Being an Apostrophe",
-        "d_dateUK": "21 Mar 2013",
         "e_dateISO": "2013-03-21",
         "f_image": "https://news.bbcimg.co.uk/media/images/66407000/jpg/_66407525_66407524.jpg",
         "g_alt": "street name",
@@ -3114,9 +2267,6 @@
     },
     {
         "a_num": "77",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2013/03/12/quite/",
-        "c_title": "Quite",
-        "d_dateUK": "12 Mar 2013",
         "e_dateISO": "2013-03-12",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/b9/91%2Ffbb02b435012190df1302d8fc1bd/thierry-ph45-qrs.jpg",
         "g_alt": "quite right",
@@ -3125,9 +2275,6 @@
     },
     {
         "a_num": "76",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2013/03/03/spurious-correlations-everywhere/",
-        "c_title": "Spurious Correlations Everywhere: The Tragedy of Big Data",
-        "d_dateUK": "3 Mar 2013",
         "e_dateISO": "2013-03-03",
         "f_image": "",
         "g_alt": "",
@@ -3136,9 +2283,6 @@
     },
     {
         "a_num": "75",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2013/02/27/predicting-prudence-from-tense-marking/",
-        "c_title": "Predicting Prudence from Tense Marking?",
-        "d_dateUK": "27 Feb 2013",
         "e_dateISO": "2013-02-27",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/9d/c0/2deca2b3ce2daca1db64fd75948a/munich-in-the-rain800px-1.jpg",
         "g_alt": "munich rain",
@@ -3147,9 +2291,6 @@
     },
     {
         "a_num": "74",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2013/02/19/being-an-adverb/",
-        "c_title": "Being an Adverb",
-        "d_dateUK": "19 Feb 2013",
         "e_dateISO": "2013-02-19",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/06/b8/137d6d1443e8c9cee81f9023e21a/pict1855.jpg",
         "g_alt": "undersold",
@@ -3158,9 +2299,6 @@
     },
     {
         "a_num": "73",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2013/02/10/revision-respect-and-etymological-cleansing/",
-        "c_title": "Revision, Respect, and Etymological Cleansing",
-        "d_dateUK": "10 Feb 2013",
         "e_dateISO": "2013-02-10",
         "f_image": "",
         "g_alt": "",
@@ -3169,9 +2307,6 @@
     },
     {
         "a_num": "72",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2013/02/04/being-a-preposition/",
-        "c_title": "Being a Preposition",
-        "d_dateUK": "4 Feb 2013",
         "e_dateISO": "2013-02-04",
         "f_image": "",
         "g_alt": "",
@@ -3180,9 +2315,6 @@
     },
     {
         "a_num": "71",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2013/01/28/humor-detection-module-not-innate/",
-        "c_title": "Humor Detection Module Not Innate",
-        "d_dateUK": "28 Jan 2013",
         "e_dateISO": "2013-01-28",
         "f_image": "",
         "g_alt": "",
@@ -3191,9 +2323,6 @@
     },
     {
         "a_num": "70",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2013/01/20/the-hacks-and-the-hackers/",
-        "c_title": "The Hacks and the Hackers",
-        "d_dateUK": "20 Jan 2013",
         "e_dateISO": "2013-01-20",
         "f_image": "",
         "g_alt": "",
@@ -3202,9 +2331,6 @@
     },
     {
         "a_num": "69",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2013/01/13/being-an-adjective/",
-        "c_title": "Being an Adjective",
-        "d_dateUK": "13 Jan 2013",
         "e_dateISO": "2013-01-13",
         "f_image": "",
         "g_alt": "",
@@ -3213,9 +2339,6 @@
     },
     {
         "a_num": "68",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2013/01/09/stopping-to-consider-language-acquisition/",
-        "c_title": "Stopping to Consider Language Acquisition",
-        "d_dateUK": "9 Jan 2013",
         "e_dateISO": "2013-01-09",
         "f_image": "",
         "g_alt": "",
@@ -3224,9 +2347,6 @@
     },
     {
         "a_num": "67",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2012/12/19/grammar-to-the-rescue/",
-        "c_title": "Grammar to the Rescue",
-        "d_dateUK": "19 Dec 2012",
         "e_dateISO": "2012-12-19",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/cd/a7/9057971845470b85e4cb825a5d6b/81692223-9926e425701.jpg",
         "g_alt": "fountain pen",
@@ -3235,9 +2355,6 @@
     },
     {
         "a_num": "66",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2012/12/10/shaken-not-stirred/",
-        "c_title": "Shaken, Not Stirred",
-        "d_dateUK": "10 Dec 2012",
         "e_dateISO": "2012-12-10",
         "f_image": "",
         "g_alt": "",
@@ -3246,9 +2363,6 @@
     },
     {
         "a_num": "65",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2012/12/06/a-rule-which-will-live-in-infamy/",
-        "c_title": "A Rule Which Will Live in Infamy",
-        "d_dateUK": "6 Dec 2012",
         "e_dateISO": "2012-12-06",
         "f_image": "",
         "g_alt": "",
@@ -3257,9 +2371,6 @@
     },
     {
         "a_num": "64",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2012/11/29/one-rule-to-ring-them-all/",
-        "c_title": "One Rule to Ring Them All",
-        "d_dateUK": "29 Nov 2012",
         "e_dateISO": "2012-11-29",
         "f_image": "",
         "g_alt": "",
@@ -3268,9 +2379,6 @@
     },
     {
         "a_num": "63",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2012/11/18/dont-blame-your-moods-on-your-language/",
-        "c_title": "Don’t Blame Your Moods on Your Language",
-        "d_dateUK": "18 Nov 2012",
         "e_dateISO": "2012-11-18",
         "f_image": "",
         "g_alt": "",
@@ -3279,9 +2387,6 @@
     },
     {
         "a_num": "62",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2012/11/12/thats-right/",
-        "c_title": "That’s Right",
-        "d_dateUK": "12 Nov 2012",
         "e_dateISO": "2012-11-12",
         "f_image": "",
         "g_alt": "",
@@ -3290,9 +2395,6 @@
     },
     {
         "a_num": "61",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2012/11/08/grammatical-relationship-counseling-needed/",
-        "c_title": "Grammatical Relationship Counseling Needed",
-        "d_dateUK": "8 Nov 2012",
         "e_dateISO": "2012-11-08",
         "f_image": "",
         "g_alt": "",
@@ -3301,9 +2403,6 @@
     },
     {
         "a_num": "60",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2012/10/30/frankenwords/",
-        "c_title": "Frankenwords",
-        "d_dateUK": "30 Oct 2012",
         "e_dateISO": "2012-10-30",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/82/ce/b9362e52785b17dc21e5027f6365/original.jpg",
         "g_alt": "frankenstein",
@@ -3312,9 +2411,6 @@
     },
     {
         "a_num": "59",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2012/10/21/illegal-immigrants-and-marine-biologists/",
-        "c_title": "Illegal Immigrants and Marine Biologists",
-        "d_dateUK": "21 Oct 2012",
         "e_dateISO": "2012-10-21",
         "f_image": "",
         "g_alt": "",
@@ -3323,9 +2419,6 @@
     },
     {
         "a_num": "58",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2012/10/18/what-words-to-say/",
-        "c_title": "What Words to Say, What Sort of Person to Be",
-        "d_dateUK": "18 Oct 2012",
         "e_dateISO": "2012-10-18",
         "f_image": "",
         "g_alt": "",
@@ -3334,9 +2427,6 @@
     },
     {
         "a_num": "57",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2012/10/08/passive-writing-at-the-daily-planet/",
-        "c_title": "Passive Writing at the Daily Planet",
-        "d_dateUK": "8 Oct 2012",
         "e_dateISO": "2012-10-08",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/6a/9a/32d4ebfa1f65a6a60350f461a300/picture-11.png",
         "g_alt": "superman comic",
@@ -3345,9 +2435,6 @@
     },
     {
         "a_num": "56",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2012/10/04/more-grammar-hate-mail/",
-        "c_title": "More Grammar Hate Mail",
-        "d_dateUK": "4 Oct 2012",
         "e_dateISO": "2012-10-04",
         "f_image": "",
         "g_alt": "",
@@ -3356,9 +2443,6 @@
     },
     {
         "a_num": "55",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2012/09/25/not-lovecrafts-providence/",
-        "c_title": "Not Lovecraft’s Providence",
-        "d_dateUK": "25 Sep 2012",
         "e_dateISO": "2012-09-25",
         "f_image": "",
         "g_alt": "",
@@ -3367,9 +2451,6 @@
     },
     {
         "a_num": "54",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2012/09/16/lovecrafts-providence/",
-        "c_title": "Lovecraft’s Providence",
-        "d_dateUK": "16 Sep 2012",
         "e_dateISO": "2012-09-16",
         "f_image": "",
         "g_alt": "",
@@ -3378,9 +2459,6 @@
     },
     {
         "a_num": "53",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2012/09/12/organic-syntax/",
-        "c_title": "Organic Syntax",
-        "d_dateUK": "12 Sep 2012",
         "e_dateISO": "2012-09-12",
         "f_image": "",
         "g_alt": "",
@@ -3389,9 +2467,6 @@
     },
     {
         "a_num": "52",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2012/09/06/planet-of-chongqing/",
-        "c_title": "The Planet of Chongqing",
-        "d_dateUK": "6 Sep 2012",
         "e_dateISO": "2012-09-06",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/76/07/fd477a4bb55020ddc6652d37dd84/skylineofchongqing.jpg",
         "g_alt": "chongqing",
@@ -3400,9 +2475,6 @@
     },
     {
         "a_num": "51",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2012/08/28/rules-that-eat-your-brain/",
-        "c_title": "Rules That Eat Your Brain",
-        "d_dateUK": "28 Aug 2012",
         "e_dateISO": "2012-08-28",
         "f_image": "",
         "g_alt": "",
@@ -3411,9 +2483,6 @@
     },
     {
         "a_num": "50",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2012/08/19/even-that-would-be-a-grammar/",
-        "c_title": "Even That Would Be a Grammar",
-        "d_dateUK": "19 Aug 2012",
         "e_dateISO": "2012-08-19",
         "f_image": "",
         "g_alt": "",
@@ -3422,9 +2491,6 @@
     },
     {
         "a_num": "49",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2012/08/15/you-are-software-dont-greet-me/",
-        "c_title": "You Are Software; Don’t Greet Me",
-        "d_dateUK": "15 Aug 2012",
         "e_dateISO": "2012-08-15",
         "f_image": "",
         "g_alt": "",
@@ -3433,9 +2499,6 @@
     },
     {
         "a_num": "48",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2012/08/06/the-riddle-of-frisney-and-frarney/",
-        "c_title": "The Riddle of Frisney and Frarney",
-        "d_dateUK": "6 Aug 2012",
         "e_dateISO": "2012-08-06",
         "f_image": "",
         "g_alt": "",
@@ -3444,9 +2507,6 @@
     },
     {
         "a_num": "47",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2012/08/02/spelling-lexical-flotsam/",
-        "c_title": "Spelling Random Lexical Flotsam",
-        "d_dateUK": "2 Aug 2012",
         "e_dateISO": "2012-08-02",
         "f_image": "",
         "g_alt": "",
@@ -3455,9 +2515,6 @@
     },
     {
         "a_num": "46",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2012/07/24/fairies/",
-        "c_title": "Fairies",
-        "d_dateUK": "24 Jul 2012",
         "e_dateISO": "2012-07-24",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/0d/49/cc0f9c312e79e26a9aacc127d3e0/andersen-fairy-land.jpg",
         "g_alt": "fairies",
@@ -3466,9 +2523,6 @@
     },
     {
         "a_num": "45",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2012/07/15/speak-up/",
-        "c_title": "Speak Up!",
-        "d_dateUK": "15 Jul 2012",
         "e_dateISO": "2012-07-15",
         "f_image": "",
         "g_alt": "",
@@ -3477,9 +2531,6 @@
     },
     {
         "a_num": "44",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2012/07/11/away-from-ones-desk/",
-        "c_title": "Away From One’s Desk",
-        "d_dateUK": "11 Jul 2012",
         "e_dateISO": "2012-07-11",
         "f_image": "",
         "g_alt": "",
@@ -3488,9 +2539,6 @@
     },
     {
         "a_num": "43",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2012/07/02/wall-street-journal-pushes-grammar-panic/",
-        "c_title": "‘Wall Street Journal’ Pushes Grammar Panic",
-        "d_dateUK": "2 Jul 2012",
         "e_dateISO": "2012-07-02",
         "f_image": "",
         "g_alt": "",
@@ -3499,9 +2547,6 @@
     },
     {
         "a_num": "42",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2012/06/27/remembering-alan-turing/",
-        "c_title": "Remembering Alan Turing",
-        "d_dateUK": "27 Jun 2012",
         "e_dateISO": "2012-06-27",
         "f_image": "",
         "g_alt": "",
@@ -3510,9 +2555,6 @@
     },
     {
         "a_num": "41",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2012/06/19/being-a-noun/",
-        "c_title": "Being a Noun",
-        "d_dateUK": "19 Jun 2012",
         "e_dateISO": "2012-06-19",
         "f_image": "",
         "g_alt": "",
@@ -3521,9 +2563,6 @@
     },
     {
         "a_num": "40",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2012/06/10/when-your-computer-is-as-easy-to-use-as-your-phone/",
-        "c_title": "When Your Computer Is as Easy to Use as Your Phone",
-        "d_dateUK": "10 Jun 2012",
         "e_dateISO": "2012-06-10",
         "f_image": "",
         "g_alt": "",
@@ -3532,9 +2571,6 @@
     },
     {
         "a_num": "39",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2012/06/06/the-however-myth/",
-        "c_title": "More on the ‘However’ Myth",
-        "d_dateUK": "6 Jun 2012",
         "e_dateISO": "2012-06-06",
         "f_image": "https://upload.wikimedia.org/wikipedia/commons/8/8a/The_Importance_of_Being_Earnest_-_Cigarettecase.jpg",
         "g_alt": "cigarette case",
@@ -3543,9 +2579,6 @@
     },
     {
         "a_num": "38",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2012/05/28/the-case-of-the-extra-word/",
-        "c_title": "The Case of the Extra Word",
-        "d_dateUK": "28 May 2012",
         "e_dateISO": "2012-05-28",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/f0/93/bf1d27f5d3b7ba1bd6bdb4bc9d50/telegram.png",
         "g_alt": "telegram",
@@ -3554,9 +2587,6 @@
     },
     {
         "a_num": "37",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2012/05/23/forget-me-scott-reed/",
-        "c_title": "Forget me, Scott Reed",
-        "d_dateUK": "23 May 2012",
         "e_dateISO": "2012-05-23",
         "f_image": "",
         "g_alt": "",
@@ -3565,9 +2595,6 @@
     },
     {
         "a_num": "36",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2012/05/14/lying-about-language/",
-        "c_title": "Lying About Language",
-        "d_dateUK": "14 May 2012",
         "e_dateISO": "2012-05-14",
         "f_image": "",
         "g_alt": "",
@@ -3576,9 +2603,6 @@
     },
     {
         "a_num": "35",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2012/05/10/grammar-and-extraterrestrials/",
-        "c_title": "Beliefs About Grammar and Extraterrestrials",
-        "d_dateUK": "10 May 2012",
         "e_dateISO": "2012-05-10",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/7e/d4/b00c3b38fab5c888c7265252efe6/200px-soviet-union-1967-stamp-0-16-satellite-of-extraterrestrial-civilization.jpg",
         "g_alt": "USSR stamp",
@@ -3587,9 +2611,6 @@
     },
     {
         "a_num": "34",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2012/05/01/the-quality-length-correlation/",
-        "c_title": "The Quality-Length Correlation",
-        "d_dateUK": "1 May 2012",
         "e_dateISO": "2012-05-01",
         "f_image": "",
         "g_alt": "",
@@ -3598,9 +2619,6 @@
     },
     {
         "a_num": "33",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2012/04/22/hopefully-foolishness/",
-        "c_title": "‘Hopefully’: Five Decades of Foolishness",
-        "d_dateUK": "22 Apr 2012",
         "e_dateISO": "2012-04-22",
         "f_image": "",
         "g_alt": "",
@@ -3609,9 +2627,6 @@
     },
     {
         "a_num": "32",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2012/04/17/not-rage-but-fear/",
-        "c_title": "Not Rage So Much, but a Modicum of Fear",
-        "d_dateUK": "17 Apr 2012",
         "e_dateISO": "2012-04-17",
         "f_image": "",
         "g_alt": "",
@@ -3620,9 +2635,6 @@
     },
     {
         "a_num": "31",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2012/04/09/a-great-space-for-nitpicking/",
-        "c_title": "A Great Space for Nitpicking",
-        "d_dateUK": "9 Apr 2012",
         "e_dateISO": "2012-04-09",
         "f_image": "",
         "g_alt": "",
@@ -3631,9 +2643,6 @@
     },
     {
         "a_num": "30",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2012/04/05/being_a_verb/",
-        "c_title": "Being a Verb",
-        "d_dateUK": "5 Apr 2012",
         "e_dateISO": "2012-04-05",
         "f_image": "",
         "g_alt": "",
@@ -3642,9 +2651,6 @@
     },
     {
         "a_num": "29",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2012/03/27/poisonous-dispute/",
-        "c_title": "The Rise and Fall of a Venomous Dispute",
-        "d_dateUK": "27 Mar 2012",
         "e_dateISO": "2012-03-27",
         "f_image": "",
         "g_alt": "",
@@ -3653,9 +2659,6 @@
     },
     {
         "a_num": "28",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2012/03/18/passives-pandas-and-dangling-modifiers/",
-        "c_title": "Passives, Pandas, and Dangling Modifiers",
-        "d_dateUK": "18 Mar 2012",
         "e_dateISO": "2012-03-18",
         "f_image": "",
         "g_alt": "",
@@ -3664,9 +2667,6 @@
     },
     {
         "a_num": "27",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2012/03/14/bad-science-reporting-effect/",
-        "c_title": "The Bad Science Reporting Effect",
-        "d_dateUK": "14 Mar 2012",
         "e_dateISO": "2012-03-14",
         "f_image": "",
         "g_alt": "",
@@ -3675,9 +2675,6 @@
     },
     {
         "a_num": "26",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2012/03/05/foreign-language-instruction-part-3-accentuating-the-positive/",
-        "c_title": "Foreign Language Education, Part 3: Accentuating the Positive",
-        "d_dateUK": "5 Mar 2012",
         "e_dateISO": "2012-03-05",
         "f_image": "",
         "g_alt": "",
@@ -3686,9 +2683,6 @@
     },
     {
         "a_num": "25",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2012/03/01/more-on-how-to-argue-for-foreign-language-instruction/",
-        "c_title": "More on How to Argue for Foreign-Language Instruction",
-        "d_dateUK": "1 Mar 2012",
         "e_dateISO": "2012-03-01",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/fe/ee/23efde307d567456d8da786b2dc8/4654766718-9fb3e92444.jpg",
         "g_alt": "japanese, the sun",
@@ -3697,9 +2691,6 @@
     },
     {
         "a_num": "24",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2012/02/21/foreign-language-instruction/",
-        "c_title": "How to Argue for Foreign Language Instruction",
-        "d_dateUK": "21 Feb 2012",
         "e_dateISO": "2012-02-21",
         "f_image": "",
         "g_alt": "",
@@ -3708,9 +2699,6 @@
     },
     {
         "a_num": "23",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2012/02/13/literary-judgment-marred-by-dumb-grammar-myth/",
-        "c_title": "Literary Judgment Marred by Dumb Grammar Myth",
-        "d_dateUK": "13 Feb 2012",
         "e_dateISO": "2012-02-13",
         "f_image": "",
         "g_alt": "",
@@ -3719,9 +2707,6 @@
     },
     {
         "a_num": "22",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2012/02/05/ferment-and-befuddlement/",
-        "c_title": "Ferment and Befuddlement",
-        "d_dateUK": "5 Feb 2012",
         "e_dateISO": "2012-02-05",
         "f_image": "",
         "g_alt": "",
@@ -3730,9 +2715,6 @@
     },
     {
         "a_num": "21",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2012/02/01/legislating-language-and-truth/",
-        "c_title": "Legislating Language and Truth",
-        "d_dateUK": "1 Feb 2012",
         "e_dateISO": "2012-02-01",
         "f_image": "",
         "g_alt": "",
@@ -3741,9 +2723,6 @@
     },
     {
         "a_num": "20",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2012/01/26/shock-writer-avoids-mentioning-passive/",
-        "c_title": "Shock: Writer Avoids Mentioning Passive!",
-        "d_dateUK": "26 Jan 2012",
         "e_dateISO": "2012-01-26",
         "f_image": "",
         "g_alt": "",
@@ -3752,9 +2731,6 @@
     },
     {
         "a_num": "19",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2012/01/17/normal-and-formal/",
-        "c_title": "Normal and Formal",
-        "d_dateUK": "17 Jan 2012",
         "e_dateISO": "2012-01-17",
         "f_image": "",
         "g_alt": "",
@@ -3763,9 +2739,6 @@
     },
     {
         "a_num": "18",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2012/01/08/the-year-of-occupy/",
-        "c_title": "The Year of ‘Occupy’",
-        "d_dateUK": "8 Jan 2012",
         "e_dateISO": "2012-01-08",
         "f_image": "",
         "g_alt": "",
@@ -3774,9 +2747,6 @@
     },
     {
         "a_num": "17",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2012/01/04/dogma-and-evidence/",
-        "c_title": "Dogma vs. Evidence: Singular They",
-        "d_dateUK": "4 Jan 2012",
         "e_dateISO": "2012-01-04",
         "f_image": "",
         "g_alt": "",
@@ -3785,9 +2755,6 @@
     },
     {
         "a_num": "16",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2011/12/15/pronoun-agreement-out-the-window/",
-        "c_title": "Pronoun Agreement Out the Window?",
-        "d_dateUK": "15 Dec 2011",
         "e_dateISO": "2011-12-15",
         "f_image": "",
         "g_alt": "",
@@ -3796,9 +2763,6 @@
     },
     {
         "a_num": "15",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2011/12/05/academic-hate-mail/",
-        "c_title": "Academic Hate Mail",
-        "d_dateUK": "5 Dec 2011",
         "e_dateISO": "2011-12-05",
         "f_image": "",
         "g_alt": "",
@@ -3807,9 +2771,6 @@
     },
     {
         "a_num": "14",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2011/11/30/beware-the-misles/",
-        "c_title": "Beware the Misles",
-        "d_dateUK": "30 Nov 2011",
         "e_dateISO": "2011-11-30",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/96/3e/a5efb002198c5a52df5dfe828338/2417237194-fc36611a74.jpg",
         "g_alt": "woe",
@@ -3818,9 +2779,6 @@
     },
     {
         "a_num": "13",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2011/11/20/thanksgiving-for-susie/",
-        "c_title": "A Thanksgiving for Susie",
-        "d_dateUK": "20 Nov 2011",
         "e_dateISO": "2011-11-20",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/cf/68/84caafff3c5e4c2e47baab6fe98a/4641338811-3cb14b7719.jpg",
         "g_alt": "leaf",
@@ -3829,9 +2787,6 @@
     },
     {
         "a_num": "12",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2011/11/15/arctic_slush/",
-        "c_title": "More Linguistic Slush From the Arctic",
-        "d_dateUK": "15 Nov 2011",
         "e_dateISO": "2011-11-15",
         "f_image": "",
         "g_alt": "",
@@ -3840,9 +2795,6 @@
     },
     {
         "a_num": "11",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2011/11/10/i-will-never-be-a-ranter/",
-        "c_title": "I Will Never Be a Ranter",
-        "d_dateUK": "10 Nov 2011",
         "e_dateISO": "2011-11-10",
         "f_image": "",
         "g_alt": "",
@@ -3851,9 +2803,6 @@
     },
     {
         "a_num": "10",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2011/10/31/permalinks-ensparbulation-etc/",
-        "c_title": "Permalinks, Ensparbulation, Etc.",
-        "d_dateUK": "31 Oct 2011",
         "e_dateISO": "2011-10-31",
         "f_image": "",
         "g_alt": "",
@@ -3862,9 +2811,6 @@
     },
     {
         "a_num": "9",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2011/10/25/love-among-the-participles/",
-        "c_title": "Love Among the Participles",
-        "d_dateUK": "25 Oct 2011",
         "e_dateISO": "2011-10-25",
         "f_image": "",
         "g_alt": "",
@@ -3873,9 +2819,6 @@
     },
     {
         "a_num": "8",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2011/10/19/attack-the-muffled-mendacities-of-the-administrative-creatures/",
-        "c_title": "Attack the Muffled Mendacities of the Administrative Creatures",
-        "d_dateUK": "19 Oct 2011",
         "e_dateISO": "2011-10-19",
         "f_image": "",
         "g_alt": "",
@@ -3884,9 +2827,6 @@
     },
     {
         "a_num": "7",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2011/10/14/glovens-and-webinars/",
-        "c_title": "Glovens and Webinars",
-        "d_dateUK": "14 Oct 2011",
         "e_dateISO": "2011-10-14",
         "f_image": "",
         "g_alt": "",
@@ -3895,9 +2835,6 @@
     },
     {
         "a_num": "6",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2011/10/01/mistakes-are-made/",
-        "c_title": "Mistakes Are Made (But Using the Passive Isn’t One of Them)",
-        "d_dateUK": "1 Oct 2011",
         "e_dateISO": "2011-10-01",
         "f_image": "",
         "g_alt": "",
@@ -3906,9 +2843,6 @@
     },
     {
         "a_num": "5",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2011/09/26/jack-reacher-flunks-phonetics/",
-        "c_title": "Jack Reacher Flunks Phonetics",
-        "d_dateUK": "26 Sep 2011",
         "e_dateISO": "2011-09-26",
         "f_image": "",
         "g_alt": "",
@@ -3917,9 +2851,6 @@
     },
     {
         "a_num": "4",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2011/09/20/chasing-me/",
-        "c_title": "Chasing Me!",
-        "d_dateUK": "20 Sep 2011",
         "e_dateISO": "2011-09-20",
         "f_image": "",
         "g_alt": "",
@@ -3928,9 +2859,6 @@
     },
     {
         "a_num": "3",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2011/09/14/invaders-from-america-not/",
-        "c_title": "Invaders from America … Not!",
-        "d_dateUK": "14 Sep 2011",
         "e_dateISO": "2011-09-14",
         "f_image": "",
         "g_alt": "",
@@ -3939,9 +2867,6 @@
     },
     {
         "a_num": "2",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2011/09/08/declarative/",
-        "c_title": "In the Time of Declarative Sentences",
-        "d_dateUK": "8 Sep 2011",
         "e_dateISO": "2011-09-08",
         "f_image": "",
         "g_alt": "",
@@ -3950,13 +2875,10 @@
     },
     {
         "a_num": "1",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2011/08/26/i-wish-id-said-that/",
-        "c_title": "I Wish I’d Said That",
-        "d_dateUK": "26 Aug 2011",
         "e_dateISO": "2011-08-26",
         "f_image": "",
         "g_alt": "",
         "h_desc": "Thieving is wrong; but what if a colleague handles a lecture interruption with a line that’s just too good not to steal? asks Geoffrey Pullum.",
         "i_page": "https://www.chronicle.com/blogs/linguafranca?p=181"
     }
-]
+];

@@ -62,7 +62,6 @@ function lfpList() {
  * Options
  *   Env…
  *     browser
- *     devel
  *   imported globals
  *     lfp3
  * Report: Warnings (0)

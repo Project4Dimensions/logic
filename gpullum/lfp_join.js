@@ -1,13 +1,13 @@
-/* lfpJoin() iterates over an arrray of 360 objects (data/lfp1.js)
- * and joins it with a second arrray of 360 objects (data/lfp2.js);
- * see output (data/lfp3.js).
+/* lfpJoin() iterates over an arrray of 360 objects (lfp1_data.js)
+ * and joins it with a second arrray of 360 objects (lfp2_data.js);
+ * see output (lfp3_data.js).
  *
  * an escaped double quotation mark (\") outputs a double quotation
  * mark ("); an escaped n (\n) outputs a new line. */
 
 function lfpJoin() {
     "use strict";
-    let json = document.getElementById("json");
+    const json = document.getElementById("json");
     json.appendChild(document.createTextNode("const lfp3 = [\n"));
     lfp1.map(function (obj1) {
         let temp = lfp2.find((obj2) => obj2.a_num === obj1.a_num);
@@ -17,9 +17,9 @@ function lfpJoin() {
             "        \"b_link\": \"" + obj1.b_link + "\",\n" +
             "        \"c_title\": \"" + obj1.c_title + "\",\n" +
             "        \"d_dateUK\": \"" + obj1.d_dateUK + "\",\n" +
-            "        \"e_dateISO\": \"" + temp.g_dateISO + "\",\n" +
-            "        \"f_image\": \"" + temp.e_image + "\",\n" +
-            "        \"g_alt\": \"" + temp.f_alt + "\",\n" +
+            "        \"e_dateISO\": \"" + temp.e_dateISO + "\",\n" +
+            "        \"f_image\": \"" + temp.f_image + "\",\n" +
+            "        \"g_alt\": \"" + temp.g_alt + "\",\n" +
             "        \"h_desc\": \"" + temp.h_desc + "\",\n" +
             "        \"i_page\": \"" + temp.i_page + "\"\n" +
             "    },\n"
@@ -54,7 +54,6 @@ function lfpJoin() {
  * Options
  *   Env…
  *     browser
- *     devel
  *   imported globals
  *     lfp1 lfp2
  * Report: Warnings (0)
