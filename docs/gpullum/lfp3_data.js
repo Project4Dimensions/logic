@@ -651,7 +651,7 @@
     {
         "a_num": "301",
         "b_link": "https://www.chronicle.com/blogs/linguafranca/2017/10/11/300-up-still-getting-it-wrong/",
-        "c_title": "300 Up, Stil Getting It Wrong",
+        "c_title": "300 Up, Still Getting It Wrong",
         "d_dateUK": "11 Oct 2017",
         "e_dateISO": "2017-10-11",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/89/ff/1d463ca4cc7497752a7e128fe74d/geoff-as-dunce.png",
