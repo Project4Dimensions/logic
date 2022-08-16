@@ -651,7 +651,7 @@
     {
         "a_num": "301",
         "b_link": "https://www.chronicle.com/blogs/linguafranca/2017/10/11/300-up-still-getting-it-wrong/",
-        "c_title": "300 Up, Stil Getting It Wrong",
+        "c_title": "300 Up, Still Getting It Wrong",
         "d_dateUK": "11 Oct 2017",
         "e_dateISO": "2017-10-11",
         "f_image": "http://chronicle-brightspot.s3.amazonaws.com/89/ff/1d463ca4cc7497752a7e128fe74d/geoff-as-dunce.png",
@@ -2213,10 +2213,10 @@
     },
     {
         "a_num": "159",
-        "b_link": "https://www.chronicle.com/blogs/linguafranca/2014/11/06/writing-instructors-your-pain-is-felt/",
+        "b_link": "https://www.chronicle.com/blogs/linguafranca/2014/11/05/writing-instructors-your-pain-is-felt/",
         "c_title": "Writing Instructors: Your Pain Is Felt",
-        "d_dateUK": "6 Nov 2014",
-        "e_dateISO": "2014-11-06",
+        "d_dateUK": "5 Nov 2014",
+        "e_dateISO": "2014-11-05",
         "f_image": "https://i5.walmartimages.com/asr/de528160-9579-4214-bbf5-f7fb9e26c763_1.f2cadce70d3a3d27631766ace863884f.jpeg",
         /* http://chronicle-brightspot.s3.amazonaws.com/5d/13/32165f07cbd30a4b0d49d996b97d/anthony-trollope.jpg */
         "g_alt": "anthony trollope",

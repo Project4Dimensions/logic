@@ -1611,7 +1611,7 @@ const lfp2 = [
     },
     {
         "a_num": "159",
-        "e_dateISO": "2014-11-06",
+        "e_dateISO": "2014-11-05",
         "f_image": "https://i5.walmartimages.com/asr/de528160-9579-4214-bbf5-f7fb9e26c763_1.f2cadce70d3a3d27631766ace863884f.jpeg",
         "g_alt": "anthony trollope",
         "h_desc": "Geoff Pullum has been grading papers, and he agrees that overuse of the passive is horrible to behold. But passives are not the real problem.",

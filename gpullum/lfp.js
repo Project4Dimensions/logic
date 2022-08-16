@@ -35,7 +35,7 @@ function lfpList() {
         pTitle.appendChild(aTitle);
         pTitle.appendChild(document.createElement("br"));
         pTitle.appendChild(document.createTextNode(
-            "Geoffrey K. Pullum · " + obj.d_dateUK + " · № " + obj.a_num
+            "Geoffrey K. Pullum · " + obj.d_dateUK + " · № " + obj.a_num
         ));
 
         pDesc.appendChild(document.createTextNode(obj.h_desc));
